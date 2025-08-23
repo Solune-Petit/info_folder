@@ -1,0 +1,141 @@
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #3C4347;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: #75808C;
+}
+
+header {
+    height: 120px;
+    padding-right: 5px;
+    background-color: #2E3336;
+}
+
+header>img {
+    align-content: flex-start;
+    margin-left: 30px;
+}
+
+header>div {
+    width: 550px;
+    margin-right: 10px;
+    align-content: flex-end;
+}
+
+main {
+    width: 1500px;
+    margin: auto;
+    gap: 100px;
+}
+
+.menu {
+    width: 100%;
+    background-color: #41565D;
+    /* Couleur de fond */
+    height: 54px;
+    /* Hauteur de la div */
+    align-items: center;
+    /* Centre les éléments verticalement */
+}
+
+.menu a {
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    border-right: 2px solid white;
+    text-transform: uppercase;
+}
+
+.menu a:last-child {
+    border-right: none;
+}
+
+.ossuaire {
+    background-image: url(../img/ossuaire.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+    height: 450px;
+    margin: 0 0 10px 0;
+    position: relative;
+    /* Pour positionner le contenu */
+}
+
+.ossuaire .contenu {
+    color: white;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 360px;
+    height: 230px;
+    background-color: rgba(29, 26, 22, 0.5);
+    padding: 20px;
+}
+
+.ossuaire .contenu h2 {
+    color: #5B909C;
+    /* Couleur du texte */
+    font-size: 1.1em;
+    font-weight: bold;
+    text-transform: uppercase;
+    /* Majuscules */
+}
+
+.grpLieux{
+    gap: 5px;
+}
+
+.zoneRouge{
+    width: 800px;
+    background-color: #B4C2C5;
+    padding: 20px 30px 20px 32px;
+}
+
+.lieux{
+    width: 280px;
+    padding: 20px;
+    border: solid 2px #64696B;
+    border-radius: 10px;
+    color: white;
+}
+
+.lieux p{
+    padding: 10px 0 15px 0;
+    border-bottom: solid white 2px;
+}
+
+.part2_left{
+    width: 250px;
+    padding: 3em 5em 0em 3em;
+}
+
+.part2_left>img{
+    width: 300px;
+    height: min-content;
+}
+
+.grid{
+    width: 950px;
+    margin: 5px;
+    display: grid;
+    grid-template-areas: 
+    'grid1 grid2 grid3'
+    'grid4 grid5 grid6'
+    'grid7 grid8 grid9'
+    ;
+    gap: 20px;
+}
+
+.grid img{
+    display: block;
+    width: 100%;
+}

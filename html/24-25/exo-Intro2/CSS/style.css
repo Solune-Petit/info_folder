@@ -1,0 +1,101 @@
+html{
+    background-color: rgb(235, 171, 52);
+}
+
+body {
+    width: 80%;
+    margin: auto;
+}
+
+main{
+    gap: 10px;
+}
+
+main>div{
+    padding: 40px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.menu>ul>li>a{
+    color: rgb(235, 171, 52);
+}
+
+.menu>ul>li{
+    padding: 15px;
+}
+
+.menu>ul{
+    background-color: black;
+}
+
+.menu>ul>li:hover{
+    background-color: rgb(235, 171, 52);
+}
+
+.menu>ul>li>a:hover{
+    color: black;
+}
+
+header {
+    background-image: url("../IMG/orangredglow.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.title {
+    height: 250px;
+
+}
+
+h1 {
+    font-size: 4em;
+}
+
+main>div {
+    background-color: black;
+    color: white;
+}
+
+.gauche{
+    width: 20%;
+}
+
+.gauche>ul{
+    list-style-image: url(../IMG/bg.gif);
+}
+
+.blocCentral{
+    width: 50%;
+}
+
+.droite{
+    width: 20%;
+}
+
+.droite>ul{
+    list-style-image: url(../IMG/bgliste.jpg);
+}
+
+.droite>a{
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 1.5em;
+}
+
+footer{
+    background-color: black;
+    color: aliceblue;
+}
+
+footer a{
+    color: aliceblue;
+}
