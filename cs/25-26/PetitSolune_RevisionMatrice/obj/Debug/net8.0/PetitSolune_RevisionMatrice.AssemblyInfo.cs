@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PetitSolune_RevisionMatrice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4dcfeaebec0be82468d4476954ea8ae6b5d8246")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f583336f76ef186d088e1178e88656b624fd063a")]
 [assembly: System.Reflection.AssemblyProductAttribute("PetitSolune_RevisionMatrice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PetitSolune_RevisionMatrice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

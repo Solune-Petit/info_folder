@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:nsd="http://structorizer.fisch.lu/" version="3.24" text="&#34;ChiffreAffine(string texte, int userA, int userB, out string[,] codeAffine, out string Emsg)&#34;" comment="&#34;&#34;" color="ffffff" type="program" style="nice">
+	<children>
+		<instruction text="&#34;string[,] codeAffine = new string [26, 4]&#34;" comment="" color="ffffff" rotated="0"></instruction>
+		<alternative text="&#34;if ((b&#62;=0 &amp;&amp; b&#60;=26) &amp;&amp; ((a%26) != 0)&#34;" comment="&#34;&#34;" color="ffffff">
+			<qTrue>
+				<instruction text="&#34;Emsg = &#34;&#34;bonne entrée&#34;&#34;&#34;" comment="&#34;&#34;" color="ffffff" rotated="0"></instruction>
+				<for text="&#34;for (int counter = 0; counter &#60; texte.Length; counter++)&#34;" comment="" counterVar="dummy_counter" startValue="for (int counter == 0; counter &#60; texte.Length; counter++)" stepConst="1" reliable="false" color="ffffff">
+					<qFor>
+						<instruction text="&#34;codeAffine[counter, 0] = texte[counter]&#34;,&#34;codeAffine[counter, 1] = (int)lettre - 65&#34;,&#34;codeAffine[counter, 2] = (userA * codeAffine[counter, 1] + userB) % 26&#34;,&#34;codeAffine[counter, 3] = Convert.ToChar(counter + 65)&#34;" comment="" color="ffffff" rotated="0"></instruction>
+					</qFor>
+				</for>
+			</qTrue>
+			<qFalse>
+				<instruction text="&#34;Emsg = &#34;&#34;error&#34;&#34;&#34;" comment="&#34;&#34;" color="ffffff" rotated="0"></instruction>
+			</qFalse>
+		</alternative>
+	</children>
+</root>

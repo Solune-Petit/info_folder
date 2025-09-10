@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root xmlns:nsd="http://structorizer.fisch.lu/" version="3.24" text="&#34;string[,] Vigenere (string texte, string clef)&#34;" comment="&#34;&#34;" color="ffffff" type="program" style="nice">
+<root xmlns:nsd="http://structorizer.fisch.lu/" version="3.24" text="&#34;string[,] Vigenere (string texte, string clef)&#34;" comment="" color="ffffff" type="program" style="nice">
 	<children>
-		<instruction text="&#34;string[,] matriceCodee = new string[texte.Length, 4]&#34;" comment="&#34;&#34;" color="ffffff" rotated="0"></instruction>
-		<for text="&#34;for(int cursor = 0; int &#60; texte.Length; i++)&#34;" comment="&#34;&#34;" counterVar="dummy_counter" startValue="for(int cursor == 0; int &#60; texte.Length; i++)" stepConst="1" reliable="false" color="ffffff">
+		<instruction text="&#34;string[,] matriceCodee = new string[texte.Length, 4]&#34;" comment="" color="ffffff" rotated="0"></instruction>
+		<for text="&#34;for(int cursor = 0; int &#60; texte.Length; i++)&#34;" comment="" counterVar="dummy_counter" startValue="for(int cursor == 0; int &#60; texte.Length; i++)" stepConst="1" reliable="false" color="ffffff">
 			<qFor>
-				<instruction text="&#34;matriceCodee[cursor, 0] = texte[cursor];&#34;" comment="&#34;&#34;" color="ffffff" rotated="0"></instruction>
-				<alternative text="&#34;if (counterClef &#60;= clef.Length)&#34;" comment="&#34;&#34;" color="ffffff">
+				<instruction text="&#34;matriceCodee[cursor, 0] = texte[cursor];&#34;" comment="" color="ffffff" rotated="0"></instruction>
+				<alternative text="&#34;if (counterClef &#60;= clef.Length)&#34;" comment="" color="ffffff">
 					<qTrue>
-						<instruction text="&#34;matriceCodee[cursor, 1] = clef[CounterClef];&#34;,&#34;CounterClef++;&#34;" comment="&#34;&#34;" color="ffffff" rotated="0"></instruction>
+						<instruction text="&#34;matriceCodee[cursor, 1] = clef[CounterClef];&#34;,&#34;CounterClef++;&#34;" comment="" color="ffffff" rotated="0"></instruction>
 					</qTrue>
 					<qFalse>
-						<instruction text="&#34;CounterClef = 0;&#34;,&#34;matriceCodee[cursor, 1] = Clef[counterClef];&#34;,&#34;CounterClef++;&#34;" comment="&#34;&#34;" color="ffffff" rotated="0"></instruction>
+						<instruction text="&#34;CounterClef = 0;&#34;,&#34;matriceCodee[cursor, 1] = Clef[counterClef];&#34;,&#34;CounterClef++;&#34;" comment="" color="ffffff" rotated="0"></instruction>
 					</qFalse>
 				</alternative>
-				<instruction text="&#34;matriceCodee[cursor, 2] = (int)matriceCodee[cursor, 1]-65;&#34;,&#34;matriceCodee[cursor, 3] = Convert.ToChar((((int)matriceCodee[cursor, 0]-65) + matriceCodee[cursor, 2]) + 65);&#34;,&#34;return matriceCodee&#34;" comment="&#34;&#34;" color="ffffff" rotated="0"></instruction>
+				<instruction text="&#34;matriceCodee[cursor, 2] = (int)matriceCodee[cursor, 1]-65;&#34;,&#34;matriceCodee[cursor, 3] = Convert.ToChar((((int)matriceCodee[cursor, 0]-65) + matriceCodee[cursor, 2]) + 65);&#34;" comment="&#34;&#34;" color="ffffff" rotated="0"></instruction>
 			</qFor>
 		</for>
+		<instruction text="&#34;return matriceCodee&#34;" comment="&#34;&#34;" color="ffffff" rotated="0"></instruction>
 	</children>
 </root>

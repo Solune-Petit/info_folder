@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{3C5E9E88-8E51-47B9-ABC1-D77825E158DA}|PetitSolune_RevisionMatrice.csproj|c:\\users\\210225\\desktop\\info_folder\\cs\\25-26\\petitsolune_revisionmatrice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C5E9E88-8E51-47B9-ABC1-D77825E158DA}|PetitSolune_RevisionMatrice.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5E9E88-8E51-47B9-ABC1-D77825E158DA}|PetitSolune_RevisionMatrice.csproj|c:\\users\\210225\\desktop\\info_folder\\cs\\25-26\\petitsolune_revisionmatrice\\colorchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5E9E88-8E51-47B9-ABC1-D77825E158DA}|PetitSolune_RevisionMatrice.csproj|solutionrelative:colorchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5E9E88-8E51-47B9-ABC1-D77825E158DA}|PetitSolune_RevisionMatrice.csproj|c:\\users\\210225\\desktop\\info_folder\\cs\\25-26\\petitsolune_revisionmatrice\\fonctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5E9E88-8E51-47B9-ABC1-D77825E158DA}|PetitSolune_RevisionMatrice.csproj|solutionrelative:fonctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ColorChanger.cs",
+              "DocumentMoniker": "C:\\Users\\210225\\Desktop\\info_folder\\cs\\25-26\\PetitSolune_RevisionMatrice\\ColorChanger.cs",
+              "RelativeDocumentMoniker": "ColorChanger.cs",
+              "ToolTip": "C:\\Users\\210225\\Desktop\\info_folder\\cs\\25-26\\PetitSolune_RevisionMatrice\\ColorChanger.cs",
+              "RelativeToolTip": "ColorChanger.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAFIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T07:52:50.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fonctions.cs",
+              "DocumentMoniker": "C:\\Users\\210225\\Desktop\\info_folder\\cs\\25-26\\PetitSolune_RevisionMatrice\\Fonctions.cs",
+              "RelativeDocumentMoniker": "Fonctions.cs",
+              "ToolTip": "C:\\Users\\210225\\Desktop\\info_folder\\cs\\25-26\\PetitSolune_RevisionMatrice\\Fonctions.cs",
+              "RelativeToolTip": "Fonctions.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T07:21:14.772Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\210225\\Desktop\\info_folder\\cs\\25-26\\PetitSolune_RevisionMatrice\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\210225\\Desktop\\info_folder\\cs\\25-26\\PetitSolune_RevisionMatrice\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\210225\\Desktop\\info_folder\\cs\\25-26\\PetitSolune_RevisionMatrice\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-08T07:10:40.287Z",
               "EditorCaption": ""

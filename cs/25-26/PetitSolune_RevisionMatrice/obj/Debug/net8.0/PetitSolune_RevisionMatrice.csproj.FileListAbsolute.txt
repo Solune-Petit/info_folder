@@ -1,0 +1,15 @@
+C:\Users\210225\Desktop\info_folder\cs\25-26\PetitSolune_RevisionMatrice\bin\Debug\net8.0\PetitSolune_RevisionMatrice.exe
+C:\Users\210225\Desktop\info_folder\cs\25-26\PetitSolune_RevisionMatrice\bin\Debug\net8.0\PetitSolune_RevisionMatrice.deps.json
+C:\Users\210225\Desktop\info_folder\cs\25-26\PetitSolune_RevisionMatrice\bin\Debug\net8.0\PetitSolune_RevisionMatrice.runtimeconfig.json
+C:\Users\210225\Desktop\info_folder\cs\25-26\PetitSolune_RevisionMatrice\bin\Debug\net8.0\PetitSolune_RevisionMatrice.dll
+C:\Users\210225\Desktop\info_folder\cs\25-26\PetitSolune_RevisionMatrice\bin\Debug\net8.0\PetitSolune_RevisionMatrice.pdb
+C:\Users\210225\Desktop\info_folder\cs\25-26\PetitSolune_RevisionMatrice\obj\Debug\net8.0\PetitSolune_RevisionMatrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\210225\Desktop\info_folder\cs\25-26\PetitSolune_RevisionMatrice\obj\Debug\net8.0\PetitSolune_RevisionMatrice.AssemblyInfoInputs.cache
+C:\Users\210225\Desktop\info_folder\cs\25-26\PetitSolune_RevisionMatrice\obj\Debug\net8.0\PetitSolune_RevisionMatrice.AssemblyInfo.cs
+C:\Users\210225\Desktop\info_folder\cs\25-26\PetitSolune_RevisionMatrice\obj\Debug\net8.0\PetitSolune_RevisionMatrice.csproj.CoreCompileInputs.cache
+C:\Users\210225\Desktop\info_folder\cs\25-26\PetitSolune_RevisionMatrice\obj\Debug\net8.0\PetitSolune_RevisionMatrice.sourcelink.json
+C:\Users\210225\Desktop\info_folder\cs\25-26\PetitSolune_RevisionMatrice\obj\Debug\net8.0\PetitSolune_RevisionMatrice.dll
+C:\Users\210225\Desktop\info_folder\cs\25-26\PetitSolune_RevisionMatrice\obj\Debug\net8.0\refint\PetitSolune_RevisionMatrice.dll
+C:\Users\210225\Desktop\info_folder\cs\25-26\PetitSolune_RevisionMatrice\obj\Debug\net8.0\PetitSolune_RevisionMatrice.pdb
+C:\Users\210225\Desktop\info_folder\cs\25-26\PetitSolune_RevisionMatrice\obj\Debug\net8.0\PetitSolune_RevisionMatrice.genruntimeconfig.cache
+C:\Users\210225\Desktop\info_folder\cs\25-26\PetitSolune_RevisionMatrice\obj\Debug\net8.0\ref\PetitSolune_RevisionMatrice.dll
