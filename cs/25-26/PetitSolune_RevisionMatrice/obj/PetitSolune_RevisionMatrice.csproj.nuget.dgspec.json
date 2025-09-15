@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\210225\\Desktop\\info_folder\\cs\\25-26\\PetitSolune_RevisionMatrice\\PetitSolune_RevisionMatrice.csproj": {}
+    "C:\\Users\\PetitSolune\\Desktop\\info_folder\\cs\\25-26\\PetitSolune_RevisionMatrice\\PetitSolune_RevisionMatrice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\210225\\Desktop\\info_folder\\cs\\25-26\\PetitSolune_RevisionMatrice\\PetitSolune_RevisionMatrice.csproj": {
+    "C:\\Users\\PetitSolune\\Desktop\\info_folder\\cs\\25-26\\PetitSolune_RevisionMatrice\\PetitSolune_RevisionMatrice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\210225\\Desktop\\info_folder\\cs\\25-26\\PetitSolune_RevisionMatrice\\PetitSolune_RevisionMatrice.csproj",
+        "projectUniqueName": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\cs\\25-26\\PetitSolune_RevisionMatrice\\PetitSolune_RevisionMatrice.csproj",
         "projectName": "PetitSolune_RevisionMatrice",
-        "projectPath": "C:\\Users\\210225\\Desktop\\info_folder\\cs\\25-26\\PetitSolune_RevisionMatrice\\PetitSolune_RevisionMatrice.csproj",
-        "packagesPath": "C:\\Users\\210225\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\210225\\Desktop\\info_folder\\cs\\25-26\\PetitSolune_RevisionMatrice\\obj\\",
+        "projectPath": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\cs\\25-26\\PetitSolune_RevisionMatrice\\PetitSolune_RevisionMatrice.csproj",
+        "packagesPath": "C:\\Users\\PetitSolune\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\cs\\25-26\\PetitSolune_RevisionMatrice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\210225\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PetitSolune\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
