@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Prise_de_contact_XAML/1.0.0": {
+        "runtime": {
+          "Prise_de_contact_XAML.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prise_de_contact_XAML/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

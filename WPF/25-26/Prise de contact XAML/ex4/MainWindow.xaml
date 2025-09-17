@@ -1,0 +1,14 @@
+﻿<Window x:Class="Prise_De_Contacte_XAML_ex4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Prise_De_Contacte_XAML_ex4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="250" Width="600">
+    <Grid>
+        <!-- exercice 4-->
+        <TextBlock VerticalAlignment="Top" HorizontalAlignment="Center" FontSize="12" Margin="0,0,300,0" TextWrapping="Wrap" Width="300" Height="120">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eleifend nec neque eu convallis. Aliquam efficitur risus et ligula aliquet, id ornare orci bibendum. Cras consequat orci a ligula consequat tristique. Morbi cursus enim et laoreet sagittis. In gravida, lectus non iaculis cursus, justo ipsum rutrum odio, vel lacinia dui mauris sit amet tellus.</TextBlock>
+        <TextBlock VerticalAlignment="Top" HorizontalAlignment="Center" FontSize="12" TextWrapping="Wrap" Margin="300,0,0,0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eleifend nec neque eu convallis. Aliquam efficitur risus et ligula aliquet, id ornare orci bibendum. Cras consequat orci a ligula consequat tristique. Morbi cursus enim et laoreet sagittis. In gravida, lectus non iaculis cursus, justo ipsum rutrum odio, vel lacinia dui mauris sit amet tellus.</TextBlock>
+    </Grid>
+</Window>

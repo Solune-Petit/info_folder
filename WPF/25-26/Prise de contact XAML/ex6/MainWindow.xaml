@@ -1,0 +1,20 @@
+﻿<Window x:Class="Prise_De_Contacte_XAML_Ex6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Prise_De_Contacte_XAML_Ex6"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ListBox Width="150" Height="80">
+            <ListBoxItem Content="Item 1" Foreground="#FF309C0A"/>
+            <ListBoxItem Content="Item 2" Foreground="#FF559C05"/>
+            <ListBoxItem Content="Item 3" Foreground="#FF97A000"/>
+            <ListBoxItem Content="Item 4" Foreground="#FFBD8A00"/>
+            <ListBoxItem Content="Item 5" Foreground="#FFAB5206"/>
+            <ListBoxItem Content="Item 6" Foreground="#FFCC2F00"/>
+            <ListBoxItem Content="Item 7" Foreground="Red"/>
+        </ListBox>
+    </Grid>
+</Window>

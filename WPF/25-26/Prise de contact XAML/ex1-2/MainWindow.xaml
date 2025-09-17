@@ -1,0 +1,22 @@
+﻿<Window x:Class="Prise_de_contact_XAML.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Prise_de_contact_XAML"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <!-- exercice 1 -->
+        <Button VerticalAlignment="Top" HorizontalAlignment="Left" Foreground="Red">up left</Button>
+        <Button VerticalAlignment="Top" HorizontalAlignment="Right" Foreground="#FF006D00">up right</Button>
+        <Button VerticalAlignment="Bottom" HorizontalAlignment="Left" Foreground="Blue">down left</Button>
+        <Button VerticalAlignment="Bottom" HorizontalAlignment="Right" Foreground="#FFB100BB">down right</Button>
+
+        <!-- exercice 2 -->
+        <Button VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="Black" Width="40" Height="40" Margin="40,0,0,40">up right</Button>
+        <Button VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="Black" Width="40" Height="40" Margin="0,0,40,40">up left</Button>
+        <Button VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="Black" Width="40" Height="40" Margin="40,40,0,0">down right</Button>
+        <Button VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="Black" Width="40" Height="40" Margin="0,40,40,0">down left</Button>
+    </Grid>
+</Window>
