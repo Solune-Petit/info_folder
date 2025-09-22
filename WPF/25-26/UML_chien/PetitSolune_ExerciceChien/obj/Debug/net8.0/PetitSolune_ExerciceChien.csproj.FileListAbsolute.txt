@@ -1,0 +1,15 @@
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\UML_chien\PetitSolune_ExerciceChien\bin\Debug\net8.0\PetitSolune_ExerciceChien.exe
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\UML_chien\PetitSolune_ExerciceChien\bin\Debug\net8.0\PetitSolune_ExerciceChien.deps.json
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\UML_chien\PetitSolune_ExerciceChien\bin\Debug\net8.0\PetitSolune_ExerciceChien.runtimeconfig.json
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\UML_chien\PetitSolune_ExerciceChien\bin\Debug\net8.0\PetitSolune_ExerciceChien.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\UML_chien\PetitSolune_ExerciceChien\bin\Debug\net8.0\PetitSolune_ExerciceChien.pdb
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\UML_chien\PetitSolune_ExerciceChien\obj\Debug\net8.0\PetitSolune_ExerciceChien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\UML_chien\PetitSolune_ExerciceChien\obj\Debug\net8.0\PetitSolune_ExerciceChien.AssemblyInfoInputs.cache
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\UML_chien\PetitSolune_ExerciceChien\obj\Debug\net8.0\PetitSolune_ExerciceChien.AssemblyInfo.cs
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\UML_chien\PetitSolune_ExerciceChien\obj\Debug\net8.0\PetitSolune_ExerciceChien.csproj.CoreCompileInputs.cache
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\UML_chien\PetitSolune_ExerciceChien\obj\Debug\net8.0\PetitSolune_ExerciceChien.sourcelink.json
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\UML_chien\PetitSolune_ExerciceChien\obj\Debug\net8.0\PetitSolune_ExerciceChien.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\UML_chien\PetitSolune_ExerciceChien\obj\Debug\net8.0\refint\PetitSolune_ExerciceChien.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\UML_chien\PetitSolune_ExerciceChien\obj\Debug\net8.0\PetitSolune_ExerciceChien.pdb
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\UML_chien\PetitSolune_ExerciceChien\obj\Debug\net8.0\PetitSolune_ExerciceChien.genruntimeconfig.cache
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\UML_chien\PetitSolune_ExerciceChien\obj\Debug\net8.0\ref\PetitSolune_ExerciceChien.dll
