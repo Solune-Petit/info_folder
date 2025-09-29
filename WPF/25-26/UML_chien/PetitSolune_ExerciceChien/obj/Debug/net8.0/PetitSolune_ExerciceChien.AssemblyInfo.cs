@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PetitSolune_ExerciceChien")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff3bf0bf1424d8c31ad7da4374bc09b772741ace")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0fb94806043a8fc2b64025971edb15827f73aa5a")]
 [assembly: System.Reflection.AssemblyProductAttribute("PetitSolune_ExerciceChien")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PetitSolune_ExerciceChien")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

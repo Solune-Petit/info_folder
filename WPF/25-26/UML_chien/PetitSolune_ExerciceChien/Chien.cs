@@ -26,6 +26,11 @@ namespace PetitSolune_ExerciceChien
             _agresif = agresif;
         }
 
+        public string infos()
+        {
+            return $"Nom : {_nom}\nRace :{_race}\nPelage : {_pelage}\nTag : {_tag}\nÂge : {_age} ans\nTaille : {_taille} cm\nPoids : {_poids} kg\nSociabilité : {_sociabilite}/10\nAgressif : {(_agresif ? "Oui" : "Non")}";
+        }
+
         public string Sauter()
         {
             return $"{_nom} saute de joie !";
@@ -39,6 +44,17 @@ namespace PetitSolune_ExerciceChien
         public string Manger()
         {
             return $"{_nom} mange sa nourriture.";
+        }
+
+        public string age()
+        {
+            _age++;
+            return $"{_nom} a maintenant {_age} ans.";
+        }
+
+        public string nom()
+        {
+            return _nom;
         }
     }
 }
