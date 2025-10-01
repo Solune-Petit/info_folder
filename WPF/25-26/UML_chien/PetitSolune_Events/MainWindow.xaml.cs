@@ -31,14 +31,14 @@ namespace PetitSolune_Events
 
         private void VerfifTextInput(object sender, TextCompositionEventArgs e)
         {
+            if (sender.ToString().Contains(",") && e.Text == ",")
+            {
+                e.Handled = true; // Empêche la saisie si il y a déjà une virgule
+            }
             // Vérifie si le texte saisi est un chiffre ou un point décimal
             if (!double.TryParse(e.Text, out double result) && e.Text != ",")
             {
-                if (((TextBox)sender).Text.IndexOf(e.Text) > -1)
-                {
-                    e.Handled = true; return;
-                }
-
+                
                 e.Handled = true; // Empêche la saisie si ce n'est pas un chiffre ou une virgule
             }
         }
@@ -50,9 +50,17 @@ namespace PetitSolune_Events
 
         private void btnSubmitBtn_Click(object sender, RoutedEventArgs e)
         {
-            //ResoudTrinome(,out string message);
+            double a = int.Parse(TxtA.Text);
+            double b = int.Parse(TxtB.Text);
+            double c = int.Parse(TxtC.Text);
 
-            //MessageBox.Show(message);
+            ResoudTrinome(a, b, c, out string message);
+
+            MessageBox.Show(message);
+
+            TxtA.Text = "";
+            TxtB.Text = "";
+            TxtC.Text = "";
         }
 
         static void ResoudTrinome(double a, double b, double c, out string message)
