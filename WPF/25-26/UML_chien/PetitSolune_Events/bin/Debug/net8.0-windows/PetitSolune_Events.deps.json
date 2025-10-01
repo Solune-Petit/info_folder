@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PetitSolune_Events/1.0.0": {
+        "runtime": {
+          "PetitSolune_Events.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PetitSolune_Events/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
