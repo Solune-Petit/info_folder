@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\UML_chien\\PetitSolune_Events\\PetitSolune_Events.csproj": {}
+    "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\PetitSolune_Events\\PetitSolune_Events.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\UML_chien\\PetitSolune_Events\\PetitSolune_Events.csproj": {
+    "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\PetitSolune_Events\\PetitSolune_Events.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\UML_chien\\PetitSolune_Events\\PetitSolune_Events.csproj",
+        "projectUniqueName": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\PetitSolune_Events\\PetitSolune_Events.csproj",
         "projectName": "PetitSolune_Events",
-        "projectPath": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\UML_chien\\PetitSolune_Events\\PetitSolune_Events.csproj",
+        "projectPath": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\PetitSolune_Events\\PetitSolune_Events.csproj",
         "packagesPath": "C:\\Users\\PetitSolune\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\UML_chien\\PetitSolune_Events\\obj\\",
+        "outputPath": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\PetitSolune_Events\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
