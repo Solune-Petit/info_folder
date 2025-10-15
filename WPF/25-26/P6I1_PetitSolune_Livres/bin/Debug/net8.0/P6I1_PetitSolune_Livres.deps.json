@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "P6I1_PetitSolune_Livres/1.0.0": {
+        "runtime": {
+          "P6I1_PetitSolune_Livres.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P6I1_PetitSolune_Livres/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

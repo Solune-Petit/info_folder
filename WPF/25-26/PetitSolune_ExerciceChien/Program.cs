@@ -86,7 +86,7 @@ namespace PetitSolune_ExerciceChien
                 {
                     validInput = false;
                     Console.WriteLine($"Sur quel chien voulez vous faire cette action ?");
-                    Console.WriteLine(func.dogTagTable(monChien, dogCount));
+                    Console.WriteLine(func.dogTagTable(monChien, dogCount, c ));
                     uInput = Console.ReadKey().KeyChar;
                     Console.Clear();
                     if (char.TryParse(uInput.ToString(), out dogChoice))

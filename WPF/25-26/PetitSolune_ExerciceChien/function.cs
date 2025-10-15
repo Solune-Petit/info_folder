@@ -56,6 +56,11 @@ namespace PetitSolune_ExerciceChien
 
             message +=        "\n+----------+---------------------------------------";
 
+            for (int i = 0; i < dogCount; i++)
+            {
+                message += $""
+            }
+
             return message;
         }
     }

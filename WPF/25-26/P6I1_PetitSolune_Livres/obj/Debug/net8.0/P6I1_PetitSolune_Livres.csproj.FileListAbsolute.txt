@@ -1,0 +1,15 @@
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\Exercices Simples\P6I1_PetitSolune_Livres\bin\Debug\net8.0\P6I1_PetitSolune_Livres.exe
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\Exercices Simples\P6I1_PetitSolune_Livres\bin\Debug\net8.0\P6I1_PetitSolune_Livres.deps.json
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\Exercices Simples\P6I1_PetitSolune_Livres\bin\Debug\net8.0\P6I1_PetitSolune_Livres.runtimeconfig.json
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\Exercices Simples\P6I1_PetitSolune_Livres\bin\Debug\net8.0\P6I1_PetitSolune_Livres.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\Exercices Simples\P6I1_PetitSolune_Livres\bin\Debug\net8.0\P6I1_PetitSolune_Livres.pdb
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\Exercices Simples\P6I1_PetitSolune_Livres\obj\Debug\net8.0\P6I1_PetitSolune_Livres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\Exercices Simples\P6I1_PetitSolune_Livres\obj\Debug\net8.0\P6I1_PetitSolune_Livres.AssemblyInfoInputs.cache
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\Exercices Simples\P6I1_PetitSolune_Livres\obj\Debug\net8.0\P6I1_PetitSolune_Livres.AssemblyInfo.cs
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\Exercices Simples\P6I1_PetitSolune_Livres\obj\Debug\net8.0\P6I1_PetitSolune_Livres.csproj.CoreCompileInputs.cache
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\Exercices Simples\P6I1_PetitSolune_Livres\obj\Debug\net8.0\P6I1_PetitSolune_Livres.sourcelink.json
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\Exercices Simples\P6I1_PetitSolune_Livres\obj\Debug\net8.0\P6I1_PetitSolune_Livres.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\Exercices Simples\P6I1_PetitSolune_Livres\obj\Debug\net8.0\refint\P6I1_PetitSolune_Livres.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\Exercices Simples\P6I1_PetitSolune_Livres\obj\Debug\net8.0\P6I1_PetitSolune_Livres.pdb
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\Exercices Simples\P6I1_PetitSolune_Livres\obj\Debug\net8.0\P6I1_PetitSolune_Livres.genruntimeconfig.cache
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\Exercices Simples\P6I1_PetitSolune_Livres\obj\Debug\net8.0\ref\P6I1_PetitSolune_Livres.dll
