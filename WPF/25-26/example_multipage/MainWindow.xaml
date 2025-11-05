@@ -5,7 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:example_multipage"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="450" Width="800"
+        Background="#fad541">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="100"/>
@@ -19,8 +20,8 @@
             <TextBlock Text="Exemple Multipage" FontSize="50" FontWeight="Bold"></TextBlock>
         </StackPanel>
         <StackPanel Grid.Row="0" Grid.Column="1">
-            <Button x:Name="btnPage1" Content="Page 1" Width="Auto" Height="50"/>
-            <Button x:Name="btnPage2" Content="Page 2" Width="Auto" Height="50"/>
+            <Button x:Name="btnPage1" Content="Page 1" Width="Auto" Height="50" Background="Red"/>
+            <Button x:Name="btnPage2" Content="Page 2" Width="Auto" Height="50" Background="Blue"/>
         </StackPanel>
 
         <StackPanel Grid.Row="1" Grid.ColumnSpan="2" Height="Auto" Width="Auto" VerticalAlignment="Center">

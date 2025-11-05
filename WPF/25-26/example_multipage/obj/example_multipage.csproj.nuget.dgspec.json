@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\Exercices Simples\\example_multipage\\example_multipage.csproj": {}
+    "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\example_multipage\\example_multipage.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\Exercices Simples\\example_multipage\\example_multipage.csproj": {
+    "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\example_multipage\\example_multipage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\Exercices Simples\\example_multipage\\example_multipage.csproj",
+        "projectUniqueName": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\example_multipage\\example_multipage.csproj",
         "projectName": "example_multipage",
-        "projectPath": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\Exercices Simples\\example_multipage\\example_multipage.csproj",
+        "projectPath": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\example_multipage\\example_multipage.csproj",
         "packagesPath": "C:\\Users\\PetitSolune\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\Exercices Simples\\example_multipage\\obj\\",
+        "outputPath": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\example_multipage\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
