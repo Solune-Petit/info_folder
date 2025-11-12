@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UAA14_I2_PetitSolune/1.0.0": {
+        "runtime": {
+          "UAA14_I2_PetitSolune.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UAA14_I2_PetitSolune/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
