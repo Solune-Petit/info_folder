@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\Creation_dynamique\\ex2\\",
+  "WorkspaceRootPath": "C:\\Users\\210225\\Desktop\\info_folder\\WPF\\25-26\\Creation_dynamique\\ex2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5611B460-EFA4-4C6A-BBB7-5EE68335F072}|ex2.csproj|c:\\users\\petitsolune\\desktop\\info_folder\\wpf\\25-26\\creation_dynamique\\ex2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5611B460-EFA4-4C6A-BBB7-5EE68335F072}|ex2.csproj|c:\\users\\210225\\desktop\\info_folder\\wpf\\25-26\\creation_dynamique\\ex2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5611B460-EFA4-4C6A-BBB7-5EE68335F072}|ex2.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5611B460-EFA4-4C6A-BBB7-5EE68335F072}|ex2.csproj|c:\\users\\petitsolune\\desktop\\info_folder\\wpf\\25-26\\creation_dynamique\\ex2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{5611B460-EFA4-4C6A-BBB7-5EE68335F072}|ex2.csproj|c:\\users\\210225\\desktop\\info_folder\\wpf\\25-26\\creation_dynamique\\ex2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{5611B460-EFA4-4C6A-BBB7-5EE68335F072}|ex2.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -24,23 +24,22 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\Creation_dynamique\\ex2\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\210225\\Desktop\\info_folder\\WPF\\25-26\\Creation_dynamique\\ex2\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\Creation_dynamique\\ex2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\210225\\Desktop\\info_folder\\WPF\\25-26\\Creation_dynamique\\ex2\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-05T08:46:51.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T08:46:51.918Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\Creation_dynamique\\ex2\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\210225\\Desktop\\info_folder\\WPF\\25-26\\Creation_dynamique\\ex2\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\Creation_dynamique\\ex2\\MainWindow.xaml.cs",
-              "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAmwDEAAAANAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\210225\\Desktop\\info_folder\\WPF\\25-26\\Creation_dynamique\\ex2\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "MainWindow.xaml.cs*",
+              "ViewState": "AgIAACIAAAAAAAAAAAAqwDYAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-05T08:46:48.813Z",
               "EditorCaption": ""

@@ -20,6 +20,12 @@ namespace ex2
         {
             InitializeComponent();
 
+            List<string> animalEmoji = new List<string>()
+            {
+            "🐈","🐵","🐷","🐱","🐐","🐯","🦊","🐼","🐴","🦝","🦨","🐭","🦉","🐰","🐀","🦔"
+            };
+
+
             //definition des colonnes
             ColumnDefinition[] colDef = new ColumnDefinition[4];
             for (int i = 0; i < 4; i++)
@@ -46,7 +52,23 @@ namespace ex2
                     Grid.SetRow(btn, i);
                     Grid.SetColumn(btn, j);
                     grdMain.Children.Add(btn);
+                    btn.Background = Brushes.Transparent;
+                    btn.BorderBrush = Brushes.Transparent;
                 }
+            }
+
+            //ajout des emojis de façon aléatoire aux boutons lors du click
+            Random rand = new Random();
+            foreach (Button btn in grdMain.Children)
+            {
+                int index = rand.Next(animalEmoji.Count);
+                string selectedEmoji = animalEmoji[index];
+                btn.Tag = selectedEmoji; // Stocke l'emoji dans la propriété Tag du bouton
+                btn.Click += (s, e) =>
+                {
+                    Button clickedButton = s as Button;
+                    clickedButton.Content = clickedButton.Tag; // Affiche l'emoji stocké
+                };
             }
         }
     }
