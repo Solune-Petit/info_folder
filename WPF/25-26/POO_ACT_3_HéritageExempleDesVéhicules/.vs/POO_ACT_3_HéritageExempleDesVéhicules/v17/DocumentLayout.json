@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\POO_ACT_3_H\u00E9ritageExempleDesV\u00E9hicules\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2EC610C1-B776-4985-AC43-CA386A9F4CB7}|POO_ACT_3_H\u00E9ritageExempleDesV\u00E9hicules.csproj|c:\\users\\petitsolune\\desktop\\info_folder\\wpf\\25-26\\poo_act_3_h\u00E9ritageexempledesv\u00E9hicules\\vehicule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC610C1-B776-4985-AC43-CA386A9F4CB7}|POO_ACT_3_H\u00E9ritageExempleDesV\u00E9hicules.csproj|solutionrelative:vehicule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC610C1-B776-4985-AC43-CA386A9F4CB7}|POO_ACT_3_H\u00E9ritageExempleDesV\u00E9hicules.csproj|c:\\users\\petitsolune\\desktop\\info_folder\\wpf\\25-26\\poo_act_3_h\u00E9ritageexempledesv\u00E9hicules\\voiture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC610C1-B776-4985-AC43-CA386A9F4CB7}|POO_ACT_3_H\u00E9ritageExempleDesV\u00E9hicules.csproj|solutionrelative:voiture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2EC610C1-B776-4985-AC43-CA386A9F4CB7}|POO_ACT_3_H\u00E9ritageExempleDesV\u00E9hicules.csproj|c:\\users\\petitsolune\\desktop\\info_folder\\wpf\\25-26\\poo_act_3_h\u00E9ritageexempledesv\u00E9hicules\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EC610C1-B776-4985-AC43-CA386A9F4CB7}|POO_ACT_3_H\u00E9ritageExempleDesV\u00E9hicules.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC610C1-B776-4985-AC43-CA386A9F4CB7}|POO_ACT_3_H\u00E9ritageExempleDesV\u00E9hicules.csproj|c:\\users\\petitsolune\\desktop\\info_folder\\wpf\\25-26\\poo_act_3_h\u00E9ritageexempledesv\u00E9hicules\\velo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC610C1-B776-4985-AC43-CA386A9F4CB7}|POO_ACT_3_H\u00E9ritageExempleDesV\u00E9hicules.csproj|solutionrelative:velo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +26,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\POO_ACT_3_H\u00E9ritageExempleDesV\u00E9hicules\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\POO_ACT_3_H\u00E9ritageExempleDesV\u00E9hicules\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-17T07:41:35.397Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vehicule.cs",
+              "DocumentMoniker": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\POO_ACT_3_H\u00E9ritageExempleDesV\u00E9hicules\\Vehicule.cs",
+              "RelativeDocumentMoniker": "Vehicule.cs",
+              "ToolTip": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\POO_ACT_3_H\u00E9ritageExempleDesV\u00E9hicules\\Vehicule.cs",
+              "RelativeToolTip": "Vehicule.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswDEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T07:46:30.552Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Velo.cs",
+              "DocumentMoniker": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\POO_ACT_3_H\u00E9ritageExempleDesV\u00E9hicules\\Velo.cs",
+              "RelativeDocumentMoniker": "Velo.cs",
+              "ToolTip": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\POO_ACT_3_H\u00E9ritageExempleDesV\u00E9hicules\\Velo.cs",
+              "RelativeToolTip": "Velo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T07:59:40.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Voiture.cs",
+              "DocumentMoniker": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\POO_ACT_3_H\u00E9ritageExempleDesV\u00E9hicules\\Voiture.cs",
+              "RelativeDocumentMoniker": "Voiture.cs",
+              "ToolTip": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\POO_ACT_3_H\u00E9ritageExempleDesV\u00E9hicules\\Voiture.cs",
+              "RelativeToolTip": "Voiture.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCEAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T07:52:53.63Z",
               "EditorCaption": ""
             }
           ]

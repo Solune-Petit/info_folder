@@ -1,0 +1,15 @@
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_ACT_3_HéritageExempleDesVéhicules\bin\Debug\net8.0\POO_ACT_3_HéritageExempleDesVéhicules.exe
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_ACT_3_HéritageExempleDesVéhicules\bin\Debug\net8.0\POO_ACT_3_HéritageExempleDesVéhicules.deps.json
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_ACT_3_HéritageExempleDesVéhicules\bin\Debug\net8.0\POO_ACT_3_HéritageExempleDesVéhicules.runtimeconfig.json
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_ACT_3_HéritageExempleDesVéhicules\bin\Debug\net8.0\POO_ACT_3_HéritageExempleDesVéhicules.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_ACT_3_HéritageExempleDesVéhicules\bin\Debug\net8.0\POO_ACT_3_HéritageExempleDesVéhicules.pdb
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_ACT_3_HéritageExempleDesVéhicules\obj\Debug\net8.0\POO_ACT_3_HéritageExempleDesVéhicules.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_ACT_3_HéritageExempleDesVéhicules\obj\Debug\net8.0\POO_ACT_3_HéritageExempleDesVéhicules.AssemblyInfoInputs.cache
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_ACT_3_HéritageExempleDesVéhicules\obj\Debug\net8.0\POO_ACT_3_HéritageExempleDesVéhicules.AssemblyInfo.cs
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_ACT_3_HéritageExempleDesVéhicules\obj\Debug\net8.0\POO_ACT_3_HéritageExempleDesVéhicules.csproj.CoreCompileInputs.cache
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_ACT_3_HéritageExempleDesVéhicules\obj\Debug\net8.0\POO_ACT_3_HéritageExempleDesVéhicules.sourcelink.json
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_ACT_3_HéritageExempleDesVéhicules\obj\Debug\net8.0\POO_ACT_3_HéritageExempleDesVéhicules.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_ACT_3_HéritageExempleDesVéhicules\obj\Debug\net8.0\refint\POO_ACT_3_HéritageExempleDesVéhicules.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_ACT_3_HéritageExempleDesVéhicules\obj\Debug\net8.0\POO_ACT_3_HéritageExempleDesVéhicules.pdb
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_ACT_3_HéritageExempleDesVéhicules\obj\Debug\net8.0\POO_ACT_3_HéritageExempleDesVéhicules.genruntimeconfig.cache
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_ACT_3_HéritageExempleDesVéhicules\obj\Debug\net8.0\ref\POO_ACT_3_HéritageExempleDesVéhicules.dll

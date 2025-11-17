@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("POO_ACT_3_HéritageExempleDesVéhicules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b64465580d6ab6024026cbfbe719eea0213d39d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+208ceea67bbe4a8fff7f6ad927b1be565b9ec8c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("POO_ACT_3_HéritageExempleDesVéhicules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("POO_ACT_3_HéritageExempleDesVéhicules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
