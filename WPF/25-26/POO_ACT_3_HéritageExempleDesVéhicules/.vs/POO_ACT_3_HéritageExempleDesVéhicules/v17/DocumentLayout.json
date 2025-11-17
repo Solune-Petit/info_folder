@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\POO_ACT_3_H\u00E9ritageExempleDesV\u00E9hicules\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC610C1-B776-4985-AC43-CA386A9F4CB7}|POO_ACT_3_H\u00E9ritageExempleDesV\u00E9hicules.csproj|c:\\users\\petitsolune\\desktop\\info_folder\\wpf\\25-26\\poo_act_3_h\u00E9ritageexempledesv\u00E9hicules\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC610C1-B776-4985-AC43-CA386A9F4CB7}|POO_ACT_3_H\u00E9ritageExempleDesV\u00E9hicules.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\POO_ACT_3_H\u00E9ritageExempleDesV\u00E9hicules\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\POO_ACT_3_H\u00E9ritageExempleDesV\u00E9hicules\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T07:41:35.397Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
