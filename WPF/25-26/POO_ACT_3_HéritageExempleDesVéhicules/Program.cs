@@ -15,15 +15,7 @@
 
             foreach (Vehicule v in vehi)
             {
-                if (v is Voiture)
-                {
-                    Console.WriteLine(v.Affiche());
-                }
-                else if (v is Velo)
-                {
-                    Console.WriteLine(v.Affiche());
-                }
-                Console.Write("\n");
+                Console.WriteLine($"{v.Affiche()}\n");
             }
 
         }

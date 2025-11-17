@@ -30,7 +30,7 @@ namespace POO_ACT_3_HéritageExempleDesVéhicules
 		}
 		public override string Affiche()
 		{
-			return $"Marque: {Marque}, Modèle: {Modele}, Couleur: {Couleur}, Prix: {Prix} Euros, Type: {Type}, Électrique: {EstElectrique}";
+			return $"{base.Affiche()}, Type: {Type}, Électrique: {EstElectrique}";
 		}
 	}
 }

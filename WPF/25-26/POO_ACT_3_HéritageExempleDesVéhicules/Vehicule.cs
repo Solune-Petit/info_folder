@@ -47,7 +47,7 @@ namespace POO_ACT_3_HéritageExempleDesVéhicules
 
         public virtual string Affiche()
 		{
-			return "";
+			return $"Marque: {Marque}, Modèle: {Modele}, Couleur: {Couleur}, Prix: {Prix} Euros";
         }
     }
 }
