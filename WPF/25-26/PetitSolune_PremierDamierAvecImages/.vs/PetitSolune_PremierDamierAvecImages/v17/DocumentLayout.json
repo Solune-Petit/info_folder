@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\PetitSolune_PremierDamierAvecImages\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C84C757-119F-4E66-B889-4846EBA1FB02}|PetitSolune_PremierDamierAvecImages.csproj|c:\\users\\petitsolune\\desktop\\info_folder\\wpf\\25-26\\petitsolune_premierdamieravecimages\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1C84C757-119F-4E66-B889-4846EBA1FB02}|PetitSolune_PremierDamierAvecImages.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1C84C757-119F-4E66-B889-4846EBA1FB02}|PetitSolune_PremierDamierAvecImages.csproj|c:\\users\\petitsolune\\desktop\\info_folder\\wpf\\25-26\\petitsolune_premierdamieravecimages\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C84C757-119F-4E66-B889-4846EBA1FB02}|PetitSolune_PremierDamierAvecImages.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C84C757-119F-4E66-B889-4846EBA1FB02}|PetitSolune_PremierDamierAvecImages.csproj|c:\\users\\petitsolune\\desktop\\info_folder\\wpf\\25-26\\petitsolune_premierdamieravecimages\\fonctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C84C757-119F-4E66-B889-4846EBA1FB02}|PetitSolune_PremierDamierAvecImages.csproj|solutionrelative:fonctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C84C757-119F-4E66-B889-4846EBA1FB02}|PetitSolune_PremierDamierAvecImages.csproj|c:\\users\\petitsolune\\desktop\\info_folder\\wpf\\25-26\\petitsolune_premierdamieravecimages\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1C84C757-119F-4E66-B889-4846EBA1FB02}|PetitSolune_PremierDamierAvecImages.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\PetitSolune_PremierDamierAvecImages\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\PetitSolune_PremierDamierAvecImages\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwCwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T07:52:41.38Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fonctions.cs",
+              "DocumentMoniker": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\PetitSolune_PremierDamierAvecImages\\Fonctions.cs",
+              "RelativeDocumentMoniker": "Fonctions.cs",
+              "ToolTip": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\PetitSolune_PremierDamierAvecImages\\Fonctions.cs",
+              "RelativeToolTip": "Fonctions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T08:42:15.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\PetitSolune_PremierDamierAvecImages\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
               "ToolTip": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\PetitSolune_PremierDamierAvecImages\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-19T07:52:44.919Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\PetitSolune_PremierDamierAvecImages\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\PetitSolune_PremierDamierAvecImages\\MainWindow.xaml.cs",
-              "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T07:52:41.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T07:52:44.919Z"
             }
           ]
         }
