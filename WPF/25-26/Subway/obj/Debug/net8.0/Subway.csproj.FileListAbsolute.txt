@@ -1,0 +1,15 @@
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\Subway\bin\Debug\net8.0\Subway.exe
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\Subway\bin\Debug\net8.0\Subway.deps.json
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\Subway\bin\Debug\net8.0\Subway.runtimeconfig.json
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\Subway\bin\Debug\net8.0\Subway.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\Subway\bin\Debug\net8.0\Subway.pdb
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\Subway\obj\Debug\net8.0\Subway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\Subway\obj\Debug\net8.0\Subway.AssemblyInfoInputs.cache
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\Subway\obj\Debug\net8.0\Subway.AssemblyInfo.cs
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\Subway\obj\Debug\net8.0\Subway.csproj.CoreCompileInputs.cache
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\Subway\obj\Debug\net8.0\Subway.sourcelink.json
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\Subway\obj\Debug\net8.0\Subway.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\Subway\obj\Debug\net8.0\refint\Subway.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\Subway\obj\Debug\net8.0\Subway.pdb
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\Subway\obj\Debug\net8.0\Subway.genruntimeconfig.cache
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\Subway\obj\Debug\net8.0\ref\Subway.dll
