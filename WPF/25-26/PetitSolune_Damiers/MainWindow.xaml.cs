@@ -38,21 +38,21 @@ namespace PetitSolune_PremierDamierAvecImages
 
             Button btnEx2 = new Button();
             btnEx2.Click += new RoutedEventHandler(btnEx2_Click);
-            btnEx2.Content = "Exercice 2 (en création)";
+            btnEx2.Content = "Exercice 2";
             Grid.SetColumn(btnEx2, 1);
             Grid.SetRow(btnEx2, 0);
             grdMain.Children.Add(btnEx2);
 
             Button btnEx3 = new Button();
             btnEx3.Click += new RoutedEventHandler(btnEx3_Click);
-            btnEx3.Content = "Exercice 3 (pas commencé)";
+            btnEx3.Content = "Exercice 3";
             Grid.SetColumn(btnEx3, 2);
             Grid.SetRow(btnEx3, 0);
             grdMain.Children.Add(btnEx3);
 
             Button btnEx4 = new Button();
             btnEx4.Click += new RoutedEventHandler(btnEx4_Click);
-            btnEx4.Content = "Exercice 4 (pas commencé)";
+            btnEx4.Content = "Exercice 4";
             Grid.SetColumn(btnEx4, 3);
             Grid.SetRow(btnEx4, 0);
             grdMain.Children.Add(btnEx4);

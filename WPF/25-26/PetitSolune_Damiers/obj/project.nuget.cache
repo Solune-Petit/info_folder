@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OhsA8oOys1o=",
+  "dgSpecHash": "t07UHY14FeQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\petit\\Desktop\\info\\WPF\\25-26\\PetitSolune_Damiers\\PetitSolune_PremierDamierAvecImages.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\petit\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.22\\microsoft.windowsdesktop.app.ref.8.0.22.nupkg.sha512",
-    "C:\\Users\\petit\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.22\\microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
-    "C:\\Users\\petit\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.22\\microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512",
-    "C:\\Users\\petit\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.22\\microsoft.netcore.app.host.win-x64.8.0.22.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\PetitSolune_Damiers\\PetitSolune_PremierDamierAvecImages.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
