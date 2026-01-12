@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{007E47ED-7676-40EC-BD71-A5DD4EF17055}|CeUAA14_WPF_janv26_PetitSolune.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\210225\\Desktop\\info_folder\\WPF\\25-26\\PetitSolune_Damiers\\Fonctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{007E47ED-7676-40EC-BD71-A5DD4EF17055}|CeUAA14_WPF_janv26_PetitSolune.csproj|c:\\users\\210225\\desktop\\info_folder\\wpf\\25-26\\ceuaa14_wpf_janv26_petitsolune\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{007E47ED-7676-40EC-BD71-A5DD4EF17055}|CeUAA14_WPF_janv26_PetitSolune.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
@@ -21,12 +24,21 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fonctions.cs",
+              "DocumentMoniker": "C:\\Users\\210225\\Desktop\\info_folder\\WPF\\25-26\\PetitSolune_Damiers\\Fonctions.cs",
+              "RelativeDocumentMoniker": "..\\PetitSolune_Damiers\\Fonctions.cs",
+              "ToolTip": "C:\\Users\\210225\\Desktop\\info_folder\\WPF\\25-26\\PetitSolune_Damiers\\Fonctions.cs",
+              "RelativeToolTip": "..\\PetitSolune_Damiers\\Fonctions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T10:55:52.301Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\210225\\Desktop\\info_folder\\WPF\\25-26\\CeUAA14_WPF_janv26_PetitSolune\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -44,7 +56,7 @@
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\210225\\Desktop\\info_folder\\WPF\\25-26\\CeUAA14_WPF_janv26_PetitSolune\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAA9wEsAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAiwFEAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-12T07:44:47.404Z",
               "EditorCaption": ""

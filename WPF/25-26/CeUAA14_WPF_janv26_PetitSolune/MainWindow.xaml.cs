@@ -62,20 +62,30 @@ namespace CeUAA14_WPF_janv26_PetitSolune
                 int taille = int.Parse(tbxTaille.Text);
                 int[,] plateau = GenererplateauNumerique(taille);
 
+                // Création de la grille de boutons
+                grdCases = new Grid();
+                ColumnDefinition[] colDef = new ColumnDefinition[plateau.GetLength(0)];
+                RowDefinition[] rowDef = new RowDefinition[plateau.GetLength(0)];
+
+                for (int i = 0; i <  plateau.GetLength(0); i++)
+                {
+                    colDef[i] = new ColumnDefinition();
+                    grdCases.ColumnDefinitions.Add(colDef[i]);
+                    rowDef[i] = new RowDefinition();
+                    grdCases.RowDefinitions.Add(rowDef[i]);
+                }
+
                 for (int i = 0; i < plateau.GetLength(0); i++)
                 {
-                    for (int j = 0; j < plateau.GetLength(1); j++)
+                    for (int  j = 0; j < plateau.GetLength(1); j++)
                     {
-                        btnCases = new Button();
-                        btnCases.Width = (int)((10F / 13F) * 806F / int.Parse(tbxTaille.Text));
-                        btnCases.Height = (int)((10F / 12F) * 732F / int.Parse(tbxTaille.Text));
-                        btnCases.HorizontalAlignment = HorizontalAlignment.Left;
-                        btnCases.VerticalAlignment = VerticalAlignment.Bottom;
-                        Grid.SetColumn(btnCases, 0);
-                        Grid.SetRow(btnCases, 1);
-                        grdMain.Children.Add(btnCases);
+                        btnCases = new Button;
+                        Grid.SetColumn(btnCases, i);
+                        Grid.SetRow(btnCases, j);
+                        grdCases.Children.Add(btnCases);
                     }
                 }
+
             }
         }
 

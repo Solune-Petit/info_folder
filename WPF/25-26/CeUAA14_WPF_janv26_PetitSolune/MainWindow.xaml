@@ -40,5 +40,11 @@
                 <Button Name="btnDes">RESET</Button>
             </StackPanel>
         </StackPanel>
+
+        <StackPanel Grid.Row="1" Grid.Column="0" x:Name="spGrille">
+            <Grid x:Name="grdCases">
+                
+            </Grid>
+        </StackPanel>
     </Grid>
 </Window>
