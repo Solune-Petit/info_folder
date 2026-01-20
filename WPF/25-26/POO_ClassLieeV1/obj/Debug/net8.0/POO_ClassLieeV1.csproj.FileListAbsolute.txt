@@ -1,0 +1,15 @@
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_ClassLieeV1\bin\Debug\net8.0\POO_ClassLieeV1.exe
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_ClassLieeV1\bin\Debug\net8.0\POO_ClassLieeV1.deps.json
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_ClassLieeV1\bin\Debug\net8.0\POO_ClassLieeV1.runtimeconfig.json
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_ClassLieeV1\bin\Debug\net8.0\POO_ClassLieeV1.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_ClassLieeV1\bin\Debug\net8.0\POO_ClassLieeV1.pdb
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_ClassLieeV1\obj\Debug\net8.0\POO_ClassLieeV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_ClassLieeV1\obj\Debug\net8.0\POO_ClassLieeV1.AssemblyInfoInputs.cache
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_ClassLieeV1\obj\Debug\net8.0\POO_ClassLieeV1.AssemblyInfo.cs
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_ClassLieeV1\obj\Debug\net8.0\POO_ClassLieeV1.csproj.CoreCompileInputs.cache
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_ClassLieeV1\obj\Debug\net8.0\POO_ClassLieeV1.sourcelink.json
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_ClassLieeV1\obj\Debug\net8.0\POO_ClassLieeV1.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_ClassLieeV1\obj\Debug\net8.0\refint\POO_ClassLieeV1.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_ClassLieeV1\obj\Debug\net8.0\POO_ClassLieeV1.pdb
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_ClassLieeV1\obj\Debug\net8.0\POO_ClassLieeV1.genruntimeconfig.cache
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_ClassLieeV1\obj\Debug\net8.0\ref\POO_ClassLieeV1.dll

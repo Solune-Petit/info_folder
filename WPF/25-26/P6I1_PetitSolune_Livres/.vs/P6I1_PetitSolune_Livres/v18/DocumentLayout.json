@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\P6I1_PetitSolune_Livres\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1DB0C0-4426-438F-BFDF-F36998A3D007}|P6I1_PetitSolune_Livres.csproj|c:\\users\\petitsolune\\desktop\\info_folder\\wpf\\25-26\\p6i1_petitsolune_livres\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1DB0C0-4426-438F-BFDF-F36998A3D007}|P6I1_PetitSolune_Livres.csproj|solutionrelative:livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1DB0C0-4426-438F-BFDF-F36998A3D007}|P6I1_PetitSolune_Livres.csproj|c:\\users\\petitsolune\\desktop\\info_folder\\wpf\\25-26\\p6i1_petitsolune_livres\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1DB0C0-4426-438F-BFDF-F36998A3D007}|P6I1_PetitSolune_Livres.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1DB0C0-4426-438F-BFDF-F36998A3D007}|P6I1_PetitSolune_Livres.csproj|c:\\users\\petitsolune\\desktop\\info_folder\\wpf\\25-26\\p6i1_petitsolune_livres\\fonctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1DB0C0-4426-438F-BFDF-F36998A3D007}|P6I1_PetitSolune_Livres.csproj|solutionrelative:fonctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1DB0C0-4426-438F-BFDF-F36998A3D007}|P6I1_PetitSolune_Livres.csproj|c:\\users\\petitsolune\\desktop\\info_folder\\wpf\\25-26\\p6i1_petitsolune_livres\\colorchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1DB0C0-4426-438F-BFDF-F36998A3D007}|P6I1_PetitSolune_Livres.csproj|solutionrelative:colorchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Livre.cs",
+              "DocumentMoniker": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\P6I1_PetitSolune_Livres\\Livre.cs",
+              "RelativeDocumentMoniker": "Livre.cs",
+              "ToolTip": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\P6I1_PetitSolune_Livres\\Livre.cs",
+              "RelativeToolTip": "Livre.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAIwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T12:41:33.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\P6I1_PetitSolune_Livres\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\P6I1_PetitSolune_Livres\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAEwEMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T12:41:33.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fonctions.cs",
+              "DocumentMoniker": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\P6I1_PetitSolune_Livres\\fonctions.cs",
+              "RelativeDocumentMoniker": "fonctions.cs",
+              "ToolTip": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\P6I1_PetitSolune_Livres\\fonctions.cs",
+              "RelativeToolTip": "fonctions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T12:41:33.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ColorChanger.cs",
+              "DocumentMoniker": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\P6I1_PetitSolune_Livres\\ColorChanger.cs",
+              "RelativeDocumentMoniker": "ColorChanger.cs",
+              "ToolTip": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\P6I1_PetitSolune_Livres\\ColorChanger.cs",
+              "RelativeToolTip": "ColorChanger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T12:41:33.922Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

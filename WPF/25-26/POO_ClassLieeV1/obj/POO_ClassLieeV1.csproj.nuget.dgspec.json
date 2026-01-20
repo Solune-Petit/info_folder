@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\P6I1_PetitSolune_Livres\\P6I1_PetitSolune_Livres.csproj": {}
+    "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\POO_ClassLieeV1\\POO_ClassLieeV1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\P6I1_PetitSolune_Livres\\P6I1_PetitSolune_Livres.csproj": {
+    "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\POO_ClassLieeV1\\POO_ClassLieeV1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\P6I1_PetitSolune_Livres\\P6I1_PetitSolune_Livres.csproj",
-        "projectName": "P6I1_PetitSolune_Livres",
-        "projectPath": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\P6I1_PetitSolune_Livres\\P6I1_PetitSolune_Livres.csproj",
+        "projectUniqueName": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\POO_ClassLieeV1\\POO_ClassLieeV1.csproj",
+        "projectName": "POO_ClassLieeV1",
+        "projectPath": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\POO_ClassLieeV1\\POO_ClassLieeV1.csproj",
         "packagesPath": "C:\\Users\\PetitSolune\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\P6I1_PetitSolune_Livres\\obj\\",
+        "outputPath": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\POO_ClassLieeV1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

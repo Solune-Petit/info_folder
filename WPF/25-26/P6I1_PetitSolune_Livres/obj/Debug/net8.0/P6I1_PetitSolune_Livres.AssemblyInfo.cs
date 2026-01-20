@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("P6I1_PetitSolune_Livres")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f378a6655fbe4d5ffc770d8a0ed41a0782063a00")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+287bf0fae034e44950f6be1987dda169c89c95fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("P6I1_PetitSolune_Livres")]
 [assembly: System.Reflection.AssemblyTitleAttribute("P6I1_PetitSolune_Livres")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
