@@ -26,9 +26,9 @@ namespace POO_ClassLieeV1.classes
 			_livres.Add(livre);
         }
 
-		public void supprime_livres_abimes()
+		public void supprime_livres_abimes(int Marque)
 		{
-			
+			_livres.RemoveAll(livre => livre.Etat <= Marque);
         }
 		
 		public string inventaire()
@@ -37,9 +37,10 @@ namespace POO_ClassLieeV1.classes
 			string inventaire = "Contenu de la bibliothèque :\n";
 			foreach (Livres livre in _livres)
 			{
-				inventaire += $"- {livre}\n";
+				inventaire += $"- {livre.Titre} par {livre.Auteur}. en état {livre.Etat}\n";
             }
-			return inventaire;
+			inventaire += $"\n\nNombre total de livres : {_livres.Count}\n\nAppuiez sur une touche pour continuer";
+            return inventaire;
         }
     }
 }
