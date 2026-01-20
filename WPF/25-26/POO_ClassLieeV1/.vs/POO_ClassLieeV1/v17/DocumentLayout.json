@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\POO_ClassLieeV1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2F61B2-902C-44B8-B3F8-2C9DB632C26D}|POO_ClassLieeV1.csproj|c:\\users\\petitsolune\\desktop\\info_folder\\wpf\\25-26\\poo_classlieev1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2F61B2-902C-44B8-B3F8-2C9DB632C26D}|POO_ClassLieeV1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\POO_ClassLieeV1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\POO_ClassLieeV1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T12:38:37.557Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
