@@ -1,0 +1,50 @@
+﻿<Window x:Class="CeUAA14_WPF_janv26_PetitSolune.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CeUAA14_WPF_janv26_PetitSolune"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="732" Width="808">
+    <Grid x:Name="grdMain" Background="#FF5DB188">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="10*"/>
+            <ColumnDefinition Width="3*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="10*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" Grid.Column="0" FontSize="40" VerticalAlignment="Center" HorizontalAlignment="Center" >Serpents et Echelles</TextBlock>
+
+        <StackPanel Grid.Row="0" Grid.RowSpan="2" Grid.Column="1">
+            <StackPanel Background="#FFC3C23D">
+                <TextBlock FontSize="20" Margin="10">Taille de la grille <LineBreak/> (Max 10)</TextBlock>
+                <TextBox x:Name="tbxTaille" Margin="5 0"></TextBox>
+                <Button Name="btnTaille" FontSize="26" Margin="15 25 15 15">CREER GRILLE</Button>
+            </StackPanel>
+            <StackPanel Background="#FFC38F3D">
+                <TextBlock FontSize="20" Margin="10">Symbole Joueur <LineBreak/>(p ou h)</TextBlock>
+                <TextBox x:Name="tbxSymbole" Margin="5 0"></TextBox>
+                <Button x:Name="btnSymbole" FontSize="26" Margin="15 25 15 15">VALIDER</Button>
+            </StackPanel>
+            <StackPanel Background="#FFB1B192">
+                <TextBlock FontSize="20" Margin="10">Joueur</TextBlock>
+                <TextBlock x:Name="txtQuiJoue"></TextBlock>
+                <Button x:Name="btnAvancer" FontSize="26" Margin="15 25 15 15">Lancer le dé</Button>
+                <TextBlock x:Name="txtDe" FontSize="20" Margin="10">Dé sorti</TextBlock>
+            </StackPanel>
+            <StackPanel>
+                <Button Name="btnDes">RESET</Button>
+            </StackPanel>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Grid.Column="0" x:Name="spGrille">
+            <Grid x:Name="grdCases">
+                
+            </Grid>
+        </StackPanel>
+    </Grid>
+</Window>
