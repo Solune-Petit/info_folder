@@ -34,7 +34,7 @@ namespace POO_ClassLieeV1.classes
 		public string inventaire()
 		{
             //affiche le contenu de la bibliotheque
-			string inventaire = "Contenu de la bibliothèque :\n";
+			string inventaire = "Contenu de la bibliothèque :\n\n";
 			foreach (Livres livre in _livres)
 			{
 				inventaire += $"- {livre.Titre} par {livre.Auteur}. en état {livre.Etat}\n";
