@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PetitSolune\\Desktop\\ClassesLieeV2\\ClassesLieeV2.csproj": {}
+    "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\POO_ClasseLiee\\V2\\ClassesLieeV2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PetitSolune\\Desktop\\ClassesLieeV2\\ClassesLieeV2.csproj": {
+    "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\POO_ClasseLiee\\V2\\ClassesLieeV2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PetitSolune\\Desktop\\ClassesLieeV2\\ClassesLieeV2.csproj",
+        "projectUniqueName": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\POO_ClasseLiee\\V2\\ClassesLieeV2.csproj",
         "projectName": "ClassesLieeV2",
-        "projectPath": "C:\\Users\\PetitSolune\\Desktop\\ClassesLieeV2\\ClassesLieeV2.csproj",
+        "projectPath": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\POO_ClasseLiee\\V2\\ClassesLieeV2.csproj",
         "packagesPath": "C:\\Users\\PetitSolune\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PetitSolune\\Desktop\\ClassesLieeV2\\obj\\",
+        "outputPath": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\POO_ClasseLiee\\V2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

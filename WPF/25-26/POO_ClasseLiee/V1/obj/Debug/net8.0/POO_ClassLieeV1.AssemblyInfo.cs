@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("POO_ClassLieeV1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06c4eb5d594adbde8e3158c39bccdcf548cdad0e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1326660838ce50158c20ac4b6f955c18eb509b15")]
 [assembly: System.Reflection.AssemblyProductAttribute("POO_ClassLieeV1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("POO_ClassLieeV1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
