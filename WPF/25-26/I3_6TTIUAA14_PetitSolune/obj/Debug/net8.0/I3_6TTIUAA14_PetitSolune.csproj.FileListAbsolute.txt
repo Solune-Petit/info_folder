@@ -1,0 +1,15 @@
+C:\Users\210225\Desktop\info_folder\WPF\25-26\I3_6TTIUAA14_PetitSolune\bin\Debug\net8.0\I3_6TTIUAA14_PetitSolune.exe
+C:\Users\210225\Desktop\info_folder\WPF\25-26\I3_6TTIUAA14_PetitSolune\bin\Debug\net8.0\I3_6TTIUAA14_PetitSolune.deps.json
+C:\Users\210225\Desktop\info_folder\WPF\25-26\I3_6TTIUAA14_PetitSolune\bin\Debug\net8.0\I3_6TTIUAA14_PetitSolune.runtimeconfig.json
+C:\Users\210225\Desktop\info_folder\WPF\25-26\I3_6TTIUAA14_PetitSolune\bin\Debug\net8.0\I3_6TTIUAA14_PetitSolune.dll
+C:\Users\210225\Desktop\info_folder\WPF\25-26\I3_6TTIUAA14_PetitSolune\bin\Debug\net8.0\I3_6TTIUAA14_PetitSolune.pdb
+C:\Users\210225\Desktop\info_folder\WPF\25-26\I3_6TTIUAA14_PetitSolune\obj\Debug\net8.0\I3_6TTIUAA14_PetitSolune.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\210225\Desktop\info_folder\WPF\25-26\I3_6TTIUAA14_PetitSolune\obj\Debug\net8.0\I3_6TTIUAA14_PetitSolune.AssemblyInfoInputs.cache
+C:\Users\210225\Desktop\info_folder\WPF\25-26\I3_6TTIUAA14_PetitSolune\obj\Debug\net8.0\I3_6TTIUAA14_PetitSolune.AssemblyInfo.cs
+C:\Users\210225\Desktop\info_folder\WPF\25-26\I3_6TTIUAA14_PetitSolune\obj\Debug\net8.0\I3_6TTIUAA14_PetitSolune.csproj.CoreCompileInputs.cache
+C:\Users\210225\Desktop\info_folder\WPF\25-26\I3_6TTIUAA14_PetitSolune\obj\Debug\net8.0\I3_6TTIUAA14_PetitSolune.sourcelink.json
+C:\Users\210225\Desktop\info_folder\WPF\25-26\I3_6TTIUAA14_PetitSolune\obj\Debug\net8.0\I3_6TTIUAA14_PetitSolune.dll
+C:\Users\210225\Desktop\info_folder\WPF\25-26\I3_6TTIUAA14_PetitSolune\obj\Debug\net8.0\refint\I3_6TTIUAA14_PetitSolune.dll
+C:\Users\210225\Desktop\info_folder\WPF\25-26\I3_6TTIUAA14_PetitSolune\obj\Debug\net8.0\I3_6TTIUAA14_PetitSolune.pdb
+C:\Users\210225\Desktop\info_folder\WPF\25-26\I3_6TTIUAA14_PetitSolune\obj\Debug\net8.0\I3_6TTIUAA14_PetitSolune.genruntimeconfig.cache
+C:\Users\210225\Desktop\info_folder\WPF\25-26\I3_6TTIUAA14_PetitSolune\obj\Debug\net8.0\ref\I3_6TTIUAA14_PetitSolune.dll
