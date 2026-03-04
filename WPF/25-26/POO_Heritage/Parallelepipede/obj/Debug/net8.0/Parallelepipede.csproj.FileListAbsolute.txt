@@ -1,0 +1,15 @@
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_Heritage\Parallelepipede\bin\Debug\net8.0\Parallelepipede.exe
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_Heritage\Parallelepipede\bin\Debug\net8.0\Parallelepipede.deps.json
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_Heritage\Parallelepipede\bin\Debug\net8.0\Parallelepipede.runtimeconfig.json
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_Heritage\Parallelepipede\bin\Debug\net8.0\Parallelepipede.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_Heritage\Parallelepipede\bin\Debug\net8.0\Parallelepipede.pdb
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_Heritage\Parallelepipede\obj\Debug\net8.0\Parallelepipede.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_Heritage\Parallelepipede\obj\Debug\net8.0\Parallelepipede.AssemblyInfoInputs.cache
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_Heritage\Parallelepipede\obj\Debug\net8.0\Parallelepipede.AssemblyInfo.cs
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_Heritage\Parallelepipede\obj\Debug\net8.0\Parallelepipede.csproj.CoreCompileInputs.cache
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_Heritage\Parallelepipede\obj\Debug\net8.0\Parallelepipede.sourcelink.json
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_Heritage\Parallelepipede\obj\Debug\net8.0\Parallelepipede.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_Heritage\Parallelepipede\obj\Debug\net8.0\refint\Parallelepipede.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_Heritage\Parallelepipede\obj\Debug\net8.0\Parallelepipede.pdb
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_Heritage\Parallelepipede\obj\Debug\net8.0\Parallelepipede.genruntimeconfig.cache
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_Heritage\Parallelepipede\obj\Debug\net8.0\ref\Parallelepipede.dll

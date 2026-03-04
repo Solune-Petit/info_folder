@@ -1,0 +1,15 @@
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_Heritage\Animaux\bin\Debug\net8.0\Animaux.exe
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_Heritage\Animaux\bin\Debug\net8.0\Animaux.deps.json
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_Heritage\Animaux\bin\Debug\net8.0\Animaux.runtimeconfig.json
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_Heritage\Animaux\bin\Debug\net8.0\Animaux.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_Heritage\Animaux\bin\Debug\net8.0\Animaux.pdb
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_Heritage\Animaux\obj\Debug\net8.0\Animaux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_Heritage\Animaux\obj\Debug\net8.0\Animaux.AssemblyInfoInputs.cache
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_Heritage\Animaux\obj\Debug\net8.0\Animaux.AssemblyInfo.cs
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_Heritage\Animaux\obj\Debug\net8.0\Animaux.csproj.CoreCompileInputs.cache
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_Heritage\Animaux\obj\Debug\net8.0\Animaux.sourcelink.json
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_Heritage\Animaux\obj\Debug\net8.0\Animaux.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_Heritage\Animaux\obj\Debug\net8.0\refint\Animaux.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_Heritage\Animaux\obj\Debug\net8.0\Animaux.pdb
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_Heritage\Animaux\obj\Debug\net8.0\Animaux.genruntimeconfig.cache
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_Heritage\Animaux\obj\Debug\net8.0\ref\Animaux.dll

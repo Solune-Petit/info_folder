@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\210225\\Desktop\\info_folder\\WPF\\25-26\\POO_Heritage\\Animaux\\",
+  "WorkspaceRootPath": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\POO_Heritage\\Animaux\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A0EC9D18-8F01-D7F5-C53C-B2DC3897E91C}|Animaux.csproj|c:\\users\\210225\\desktop\\info_folder\\wpf\\25-26\\poo_heritage\\animaux\\lapin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0EC9D18-8F01-D7F5-C53C-B2DC3897E91C}|Animaux.csproj|solutionrelative:lapin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A0EC9D18-8F01-D7F5-C53C-B2DC3897E91C}|Animaux.csproj|c:\\users\\petitsolune\\desktop\\info_folder\\wpf\\25-26\\poo_heritage\\animaux\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0EC9D18-8F01-D7F5-C53C-B2DC3897E91C}|Animaux.csproj|solutionrelative:chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0EC9D18-8F01-D7F5-C53C-B2DC3897E91C}|Animaux.csproj|c:\\users\\210225\\desktop\\info_folder\\wpf\\25-26\\poo_heritage\\animaux\\chien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0EC9D18-8F01-D7F5-C53C-B2DC3897E91C}|Animaux.csproj|c:\\users\\petitsolune\\desktop\\info_folder\\wpf\\25-26\\poo_heritage\\animaux\\chien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0EC9D18-8F01-D7F5-C53C-B2DC3897E91C}|Animaux.csproj|solutionrelative:chien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0EC9D18-8F01-D7F5-C53C-B2DC3897E91C}|Animaux.csproj|c:\\users\\210225\\desktop\\info_folder\\wpf\\25-26\\poo_heritage\\animaux\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0EC9D18-8F01-D7F5-C53C-B2DC3897E91C}|Animaux.csproj|c:\\users\\petitsolune\\desktop\\info_folder\\wpf\\25-26\\poo_heritage\\animaux\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0EC9D18-8F01-D7F5-C53C-B2DC3897E91C}|Animaux.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0EC9D18-8F01-D7F5-C53C-B2DC3897E91C}|Animaux.csproj|c:\\users\\petitsolune\\desktop\\info_folder\\wpf\\25-26\\poo_heritage\\animaux\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0EC9D18-8F01-D7F5-C53C-B2DC3897E91C}|Animaux.csproj|solutionrelative:animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0EC9D18-8F01-D7F5-C53C-B2DC3897E91C}|Animaux.csproj|c:\\users\\210225\\desktop\\info_folder\\wpf\\25-26\\poo_heritage\\animaux\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0EC9D18-8F01-D7F5-C53C-B2DC3897E91C}|Animaux.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A0EC9D18-8F01-D7F5-C53C-B2DC3897E91C}|Animaux.csproj|c:\\users\\petitsolune\\desktop\\info_folder\\wpf\\25-26\\poo_heritage\\animaux\\lapin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0EC9D18-8F01-D7F5-C53C-B2DC3897E91C}|Animaux.csproj|solutionrelative:lapin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,13 +34,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\210225\\Desktop\\info_folder\\WPF\\25-26\\POO_Heritage\\Animaux\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\POO_Heritage\\Animaux\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\210225\\Desktop\\info_folder\\WPF\\25-26\\POO_Heritage\\Animaux\\Program.cs",
+              "ToolTip": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\POO_Heritage\\Animaux\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-02T08:39:38.178Z",
               "IsPinned": true,
@@ -44,11 +48,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Animal.cs",
-              "DocumentMoniker": "C:\\Users\\210225\\Desktop\\info_folder\\WPF\\25-26\\POO_Heritage\\Animaux\\Animal.cs",
+              "DocumentMoniker": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\POO_Heritage\\Animaux\\Animal.cs",
               "RelativeDocumentMoniker": "Animal.cs",
-              "ToolTip": "C:\\Users\\210225\\Desktop\\info_folder\\WPF\\25-26\\POO_Heritage\\Animaux\\Animal.cs",
+              "ToolTip": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\POO_Heritage\\Animaux\\Animal.cs",
               "RelativeToolTip": "Animal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -59,12 +63,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Chat.cs",
+              "DocumentMoniker": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\POO_Heritage\\Animaux\\Chat.cs",
+              "RelativeDocumentMoniker": "Chat.cs",
+              "ToolTip": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\POO_Heritage\\Animaux\\Chat.cs",
+              "RelativeToolTip": "Chat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T07:34:16.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Lapin.cs",
-              "DocumentMoniker": "C:\\Users\\210225\\Desktop\\info_folder\\WPF\\25-26\\POO_Heritage\\Animaux\\Lapin.cs",
+              "DocumentMoniker": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\POO_Heritage\\Animaux\\Lapin.cs",
               "RelativeDocumentMoniker": "Lapin.cs",
-              "ToolTip": "C:\\Users\\210225\\Desktop\\info_folder\\WPF\\25-26\\POO_Heritage\\Animaux\\Lapin.cs",
+              "ToolTip": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\POO_Heritage\\Animaux\\Lapin.cs",
               "RelativeToolTip": "Lapin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-02T09:03:52.334Z",
               "EditorCaption": ""
@@ -73,11 +90,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Chien.cs",
-              "DocumentMoniker": "C:\\Users\\210225\\Desktop\\info_folder\\WPF\\25-26\\POO_Heritage\\Animaux\\Chien.cs",
+              "DocumentMoniker": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\POO_Heritage\\Animaux\\Chien.cs",
               "RelativeDocumentMoniker": "Chien.cs",
-              "ToolTip": "C:\\Users\\210225\\Desktop\\info_folder\\WPF\\25-26\\POO_Heritage\\Animaux\\Chien.cs",
+              "ToolTip": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\POO_Heritage\\Animaux\\Chien.cs",
               "RelativeToolTip": "Chien.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAACOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-02T08:55:20.304Z",
               "EditorCaption": ""

@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\POO_Heritage\\Parallelepipede\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{824B9BA0-E017-3DA2-E811-0D9F29BE4DE0}|Parallelepipede.csproj|c:\\users\\petitsolune\\desktop\\info_folder\\wpf\\25-26\\poo_heritage\\parallelepipede\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824B9BA0-E017-3DA2-E811-0D9F29BE4DE0}|Parallelepipede.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824B9BA0-E017-3DA2-E811-0D9F29BE4DE0}|Parallelepipede.csproj|c:\\users\\petitsolune\\desktop\\info_folder\\wpf\\25-26\\poo_heritage\\parallelepipede\\parallelepipede.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824B9BA0-E017-3DA2-E811-0D9F29BE4DE0}|Parallelepipede.csproj|solutionrelative:parallelepipede.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824B9BA0-E017-3DA2-E811-0D9F29BE4DE0}|Parallelepipede.csproj|c:\\users\\petitsolune\\desktop\\info_folder\\wpf\\25-26\\poo_heritage\\parallelepipede\\carre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824B9BA0-E017-3DA2-E811-0D9F29BE4DE0}|Parallelepipede.csproj|solutionrelative:carre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824B9BA0-E017-3DA2-E811-0D9F29BE4DE0}|Parallelepipede.csproj|c:\\users\\petitsolune\\desktop\\info_folder\\wpf\\25-26\\poo_heritage\\parallelepipede\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824B9BA0-E017-3DA2-E811-0D9F29BE4DE0}|Parallelepipede.csproj|solutionrelative:rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 286,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\POO_Heritage\\Parallelepipede\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\POO_Heritage\\Parallelepipede\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwEYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T07:52:48.545Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Parallelepipede.cs",
+              "DocumentMoniker": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\POO_Heritage\\Parallelepipede\\Parallelepipede.cs",
+              "RelativeDocumentMoniker": "Parallelepipede.cs",
+              "ToolTip": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\POO_Heritage\\Parallelepipede\\Parallelepipede.cs",
+              "RelativeToolTip": "Parallelepipede.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T07:57:23.883Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\POO_Heritage\\Parallelepipede\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Rectangle.cs",
+              "ToolTip": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\POO_Heritage\\Parallelepipede\\Rectangle.cs",
+              "RelativeToolTip": "Rectangle.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBgAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T07:59:46.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Carre.cs",
+              "DocumentMoniker": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\POO_Heritage\\Parallelepipede\\Carre.cs",
+              "RelativeDocumentMoniker": "Carre.cs",
+              "ToolTip": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\POO_Heritage\\Parallelepipede\\Carre.cs",
+              "RelativeToolTip": "Carre.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T07:59:40.315Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
