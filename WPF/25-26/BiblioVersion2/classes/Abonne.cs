@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -38,6 +39,21 @@ namespace BiblioVersion1.classes
 		public string Infos()
 		{
 			return _prenom + "   " + _nom + "  " + _email;	
+		}
+
+		public string CreerAbo(string nom, string prenom, string mail, string mdp, string pseudo, Bdd bdd)
+		{
+			bdd.TrouverAbo(mail ,mdp, pseudo, out bool aboTrouve, out DataSet abo);
+
+			if (aboTrouve)
+			{
+				return "Vous avez déjà un compte avec cette adresse mail.";
+			}
+			else
+			{
+				bdd.CreerAbo(nom, prenom, mail, pseudo, mdp);
+				return "Votre compte a été créé avec succès.";
+            }
 		}
 
 	}
