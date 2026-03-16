@@ -30,31 +30,34 @@ namespace BiblioVersion1.classes
 			get { return _email; }
 			set { _email = value; }
 		}
-		public Abonne(string nom, string prenom, string email)
+
+		private int _id;
+
+		public int Id
+		{
+			get { return _id; }
+		}
+
+		private string _mdp;
+
+		public string Mdp
+		{
+			get { return _mdp; }
+			set { _mdp = value; }
+		}
+
+
+		public Abonne(string nom, string prenom, string email, string mdp, int id)
 		{
 			_nom = nom;
 			_prenom = prenom;
 			_email = email;
+			_mdp = mdp;
+			_id = id;
 		}
 		public string Infos()
 		{
 			return _prenom + "   " + _nom + "  " + _email;	
 		}
-
-		public string CreerAbo(string nom, string prenom, string mail, string mdp, string pseudo, Bdd bdd)
-		{
-			bdd.TrouverAbo(mail ,mdp, pseudo, out bool aboTrouve, out DataSet abo);
-
-			if (aboTrouve)
-			{
-				return "Vous avez déjà un compte avec cette adresse mail.";
-			}
-			else
-			{
-				bdd.CreerAbo(nom, prenom, mail, pseudo, mdp);
-				return "Votre compte a été créé avec succès.";
-            }
-		}
-
 	}
 }

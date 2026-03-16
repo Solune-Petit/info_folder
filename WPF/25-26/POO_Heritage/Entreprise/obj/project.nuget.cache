@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bdEZuO3Kk0M=",
+  "dgSpecHash": "DuZXKsnbRP4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\petit\\Desktop\\info\\WPF\\25-26\\POO_Heritage\\Entreprise\\Entreprise.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\petit\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.23\\microsoft.windowsdesktop.app.ref.8.0.23.nupkg.sha512",
-    "C:\\Users\\petit\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.23\\microsoft.netcore.app.ref.8.0.23.nupkg.sha512",
-    "C:\\Users\\petit\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.23\\microsoft.aspnetcore.app.ref.8.0.23.nupkg.sha512",
-    "C:\\Users\\petit\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.23\\microsoft.netcore.app.host.win-x64.8.0.23.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\POO_Heritage\\Entreprise\\Entreprise.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

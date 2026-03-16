@@ -7,6 +7,11 @@ namespace BiblioVersion1
         static void Main(string[] args)
         {
             Bibliotheque biblio = new Bibliotheque();
+            Bdd bdd = new Bdd();
+
+            string nom = "";
+            string prenom = "";
+
             do
             {
                 Console.Clear();
@@ -22,21 +27,42 @@ namespace BiblioVersion1
                     );
                 switch (Console.ReadKey().Key)
                 {
+                    ////////////////////////création d'un livre
                     case ConsoleKey.L:
                         string titre = "";
-                        string auteur = "";
+                        string tempDate = "";
+                        DateOnly date;
                         int etat = 5;
 
-                        Console.WriteLine("\nTitre du livre:");
+
+                        Console.Clear();
+                        Console.WriteLine("Titre du livre:");
                         titre = Console.ReadLine();
-                        Console.WriteLine("auteur du livre:");
-                        auteur = Console.ReadLine();
+                        Console.Clear();
+                        Console.WriteLine("nom de l'auteur:");
+                        nom = Console.ReadLine();
+                        Console.Clear();
+                        Console.WriteLine("prénom de l'auteur:");
+                        prenom = Console.ReadLine();
+                        do
+                        {
+                            Console.Clear();
+                            Console.WriteLine("Année de publication du livre (format: yyyy) :");
+                            tempDate = Console.ReadLine();
+                        } while (!DateOnly.TryParseExact(tempDate, "yyyy", null, System.Globalization.DateTimeStyles.None, out date));
 
                         Livre livreExistant;
                         if (!TrouveLivre(titre, biblio.Contenu, out livreExistant))
                         {
-                            biblio.Contenu.Add(new Livre(titre, auteur, etat));
-                            Console.WriteLine("livre créé");
+                            if (bdd.AjouterLivre(titre, nom, prenom, date))
+                            {
+                                biblio.Contenu.Add(new Livre(titre, nom, prenom, etat));
+                                Console.WriteLine("livre créé");
+                            }
+                            else
+                            {
+                                Console.WriteLine("Erreur lors de la création du livre en base de données !");
+                            }
                         }
                         else
                         {
@@ -44,20 +70,31 @@ namespace BiblioVersion1
                         }
 
                         break;
+                    ////////////////////////création d'un abonné
                     case ConsoleKey.B:
-                        string nom = "";
-                        string prenom = "";
                         string email = "";
 
-                        Console.WriteLine("\nNom de l'abonné :");
+                        Console.Clear();
+                        Console.WriteLine("Nom de l'abonné :");
                         nom = Console.ReadLine();
+                        Console.Clear();
                         Console.WriteLine("Prénom de l'abonné :");
                         prenom = Console.ReadLine();
 
                         Abonne abonneExistant;
                         if (!TrouveAbonne(nom, biblio.Abonnes, out abonneExistant))
                         {
-                            biblio.CreeAbonne(nom, prenom, "");
+                            Console.Clear();
+                            Console.WriteLine("Email de l'abonné :");
+                            email = Console.ReadLine();
+                            Console.Clear();
+                            Console.WriteLine("Login de l'abonné :");
+                            string login = Console.ReadLine();
+                            Console.Clear();
+                            Console.WriteLine("Mot de passe de l'abonné :");
+                            string mdp = Console.ReadLine();
+                            biblio.CreeAbonne(nom, prenom, email, login, mdp);
+                            Console.Clear();
                             Console.WriteLine("Abonné enregistré !");
                         }
                         else
@@ -66,6 +103,7 @@ namespace BiblioVersion1
                         }
 
                         break;
+                    ////////////////////////liste des abonnés
                     case ConsoleKey.A:
                         Console.WriteLine("\n" + biblio.ListeAbonnes());
                         break;

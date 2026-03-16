@@ -1,0 +1,15 @@
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_Heritage\Entreprise\bin\Debug\net8.0\Entreprise.exe
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_Heritage\Entreprise\bin\Debug\net8.0\Entreprise.deps.json
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_Heritage\Entreprise\bin\Debug\net8.0\Entreprise.runtimeconfig.json
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_Heritage\Entreprise\bin\Debug\net8.0\Entreprise.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_Heritage\Entreprise\bin\Debug\net8.0\Entreprise.pdb
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_Heritage\Entreprise\obj\Debug\net8.0\Entreprise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_Heritage\Entreprise\obj\Debug\net8.0\Entreprise.AssemblyInfoInputs.cache
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_Heritage\Entreprise\obj\Debug\net8.0\Entreprise.AssemblyInfo.cs
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_Heritage\Entreprise\obj\Debug\net8.0\Entreprise.csproj.CoreCompileInputs.cache
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_Heritage\Entreprise\obj\Debug\net8.0\Entreprise.sourcelink.json
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_Heritage\Entreprise\obj\Debug\net8.0\Entreprise.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_Heritage\Entreprise\obj\Debug\net8.0\refint\Entreprise.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_Heritage\Entreprise\obj\Debug\net8.0\Entreprise.pdb
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_Heritage\Entreprise\obj\Debug\net8.0\Entreprise.genruntimeconfig.cache
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_Heritage\Entreprise\obj\Debug\net8.0\ref\Entreprise.dll

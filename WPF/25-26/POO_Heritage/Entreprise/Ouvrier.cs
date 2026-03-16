@@ -20,9 +20,9 @@ namespace Entreprise
 			_entreSociete = EntreSociete;
         }
 
-        public override string CalculerSalaire()
+        public override int CalculerSalaire()
         {
-            return $"Le salaire de l'ouvrier {Matricule} est de {(2500 + (100*(DateTime.Now.Year - _entreSociete.Year)))} euros.";
+            return (2500 + (100*(DateTime.Now.Year - _entreSociete.Year)));
         }
 
         public override string Infos()

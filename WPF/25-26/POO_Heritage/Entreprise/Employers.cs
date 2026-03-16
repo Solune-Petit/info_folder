@@ -52,6 +52,6 @@ namespace Entreprise
 
 		abstract public string Infos();
 
-		abstract public string CalculerSalaire();
+		abstract public int CalculerSalaire();
     }
 }

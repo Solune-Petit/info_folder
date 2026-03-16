@@ -9,16 +9,19 @@ namespace BiblioVersion1.classes
     public class Livre
     {
         private string _titre;
-        private string _auteur;
+        private string _nom;
         private int _etat;
+        private string _prenom;
         public string Titre { get { return _titre; } }
-        public string Auteur { get { return _auteur; } }
+        public string Nom { get { return _nom; } }
+        public string Prenom { get { return _prenom; } }
         public int Etat { get { return _etat; } set { _etat = value; } }
 
-        public Livre(string titre, string auteur, int etat)
+        public Livre(string titre, string nom, string prenom, int etat)
         {
             _titre = titre;
-            _auteur = auteur;
+            _nom = nom;
+            _prenom = prenom;
             _etat = etat;
         }
 
@@ -34,7 +37,7 @@ namespace BiblioVersion1.classes
         }
         public string Description()
         {
-            return _titre + " " + _auteur + " " + _etat + "\n";
+            return _titre + " " + _prenom + " " + _nom + " " + _etat + "\n";
         }
     }
 }

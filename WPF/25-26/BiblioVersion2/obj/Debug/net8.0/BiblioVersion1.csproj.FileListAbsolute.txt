@@ -26,3 +26,41 @@
 \\Mac\Home\Documents\COURS_TI\UAA14 POO\SOLUTIONS ACTIVITES POO\BiblioVersion2\obj\Debug\net8.0\BiblioVersion1.pdb
 \\Mac\Home\Documents\COURS_TI\UAA14 POO\SOLUTIONS ACTIVITES POO\BiblioVersion2\obj\Debug\net8.0\BiblioVersion1.genruntimeconfig.cache
 \\Mac\Home\Documents\COURS_TI\UAA14 POO\SOLUTIONS ACTIVITES POO\BiblioVersion2\obj\Debug\net8.0\ref\BiblioVersion1.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\BiblioVersion2\bin\Debug\net8.0\BiblioVersion1.exe
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\BiblioVersion2\bin\Debug\net8.0\BiblioVersion1.deps.json
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\BiblioVersion2\bin\Debug\net8.0\BiblioVersion1.runtimeconfig.json
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\BiblioVersion2\bin\Debug\net8.0\BiblioVersion1.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\BiblioVersion2\bin\Debug\net8.0\BiblioVersion1.pdb
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\BiblioVersion2\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\BiblioVersion2\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\BiblioVersion2\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\BiblioVersion2\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\BiblioVersion2\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\BiblioVersion2\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\BiblioVersion2\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\BiblioVersion2\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\BiblioVersion2\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\BiblioVersion2\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\BiblioVersion2\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\BiblioVersion2\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\BiblioVersion2\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\BiblioVersion2\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\BiblioVersion2\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\BiblioVersion2\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\BiblioVersion2\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\BiblioVersion2\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\BiblioVersion2\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\BiblioVersion2\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\BiblioVersion2\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\BiblioVersion2\obj\Debug\net8.0\BiblioVersion1.csproj.AssemblyReference.cache
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\BiblioVersion2\obj\Debug\net8.0\BiblioVersion1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\BiblioVersion2\obj\Debug\net8.0\BiblioVersion1.AssemblyInfoInputs.cache
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\BiblioVersion2\obj\Debug\net8.0\BiblioVersion1.AssemblyInfo.cs
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\BiblioVersion2\obj\Debug\net8.0\BiblioVersion1.csproj.CoreCompileInputs.cache
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\BiblioVersion2\obj\Debug\net8.0\BiblioVersion1.sourcelink.json
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\BiblioVersion2\obj\Debug\net8.0\BiblioVe.5611E1DA.Up2Date
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\BiblioVersion2\obj\Debug\net8.0\BiblioVersion1.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\BiblioVersion2\obj\Debug\net8.0\refint\BiblioVersion1.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\BiblioVersion2\obj\Debug\net8.0\BiblioVersion1.pdb
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\BiblioVersion2\obj\Debug\net8.0\BiblioVersion1.genruntimeconfig.cache
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\BiblioVersion2\obj\Debug\net8.0\ref\BiblioVersion1.dll
