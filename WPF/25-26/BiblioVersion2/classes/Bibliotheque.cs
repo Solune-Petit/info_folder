@@ -36,7 +36,7 @@ namespace BiblioVersion1.classes
             {
                 for (int i = 0; i < dl.Tables[0].Rows.Count; i++)
                 {
-                    _contenu.Add(new Livre(dl.Tables[0].Rows[i]["titre"].ToString(), dl.Tables[0].Rows[i]["auteur"].ToString(), dl.Tables[0].Rows[i]["prenom"].ToString(), Convert.ToInt32(dl.Tables[0].Rows[i]["etat"])));
+                    _contenu.Add(new Livre(dl.Tables[0].Rows[i]["titre"].ToString(), dl.Tables[0].Rows[i]["nom"].ToString(), dl.Tables[0].Rows[i]["prenom"].ToString(), Convert.ToInt32(dl.Tables[0].Rows[i]["etat"]), Convert.ToInt32(dl.Tables[0].Rows[i]["id"])));
                 }
             }
 
@@ -45,7 +45,7 @@ namespace BiblioVersion1.classes
             {
                 for (int i = 0; i < de.Tables[0].Rows.Count; i++)
                 {
-                    Livre livreEmprunte = new Livre(de.Tables[0].Rows[i]["titre"].ToString(), de.Tables[0].Rows[i]["auteur"].ToString(), de.Tables[0].Rows[i]["prenom"].ToString(), Convert.ToInt32(de.Tables[0].Rows[i]["etat"]));
+                    Livre livreEmprunte = new Livre(de.Tables[0].Rows[i]["titre"].ToString(), de.Tables[0].Rows[i]["auteur"].ToString(), de.Tables[0].Rows[i]["prenom"].ToString(), Convert.ToInt32(de.Tables[0].Rows[i]["etat"]), Convert.ToInt32(dl.Tables[0].Rows[i]["id"]));
                     Abonne emprunteur = new Abonne(de.Tables[0].Rows[i]["nom"].ToString(), de.Tables[0].Rows[i]["prenom"].ToString(), de.Tables[0].Rows[i]["email"].ToString(), de.Tables[0].Rows[i]["mdp"].ToString(), Convert.ToInt32(de.Tables[0].Rows[i]["id_abonne"]));
                     DateTime dateEmprunt = Convert.ToDateTime(de.Tables[0].Rows[i]["date_emprunt"]);
                     Emprunt emprunt = new Emprunt(livreEmprunte, dateEmprunt, emprunteur);
@@ -62,7 +62,7 @@ namespace BiblioVersion1.classes
             {
                 for (int iAbonne = 0; iAbonne < da.Tables[0].Rows.Count; iAbonne++)
                 {
-                    _abonnes.Add(new Abonne(da.Tables[0].Rows[iAbonne]["nom"].ToString(), da.Tables[0].Rows[iAbonne]["prenom"].ToString(), da.Tables[0].Rows[iAbonne]["email"].ToString(), da.Tables[0].Rows[iAbonne]["mdp"].ToString(), Convert.ToInt32(da.Tables[0].Rows[iAbonne]["id"])));
+                    _abonnes.Add(new Abonne(da.Tables[0].Rows[iAbonne]["nom"].ToString(), da.Tables[0].Rows[iAbonne]["prenom"].ToString(), da.Tables[0].Rows[iAbonne]["email"].ToString(), da.Tables[0].Rows[iAbonne]["motDePasse"].ToString(), Convert.ToInt32(da.Tables[0].Rows[iAbonne]["id"])));
                 }
             }
         }
@@ -126,7 +126,7 @@ namespace BiblioVersion1.classes
             string infosAbonnes = "\n";
             for (int iAbonne = 0; iAbonne < _abonnes.Count(); iAbonne++)
             {
-                infosAbonnes += _abonnes[iAbonne].Infos();
+                infosAbonnes += $"\n{_abonnes[iAbonne].Infos()}";
             }
             return infosAbonnes;
         }

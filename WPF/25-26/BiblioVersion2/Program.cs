@@ -1,4 +1,5 @@
 ﻿using BiblioVersion1.classes;
+using System.Data;
 
 namespace BiblioVersion1
 {
@@ -54,9 +55,9 @@ namespace BiblioVersion1
                         Livre livreExistant;
                         if (!TrouveLivre(titre, biblio.Contenu, out livreExistant))
                         {
-                            if (bdd.AjouterLivre(titre, nom, prenom, date))
+                            if (bdd.AjouterLivre(titre, nom, prenom, date, out DataSet livre))
                             {
-                                biblio.Contenu.Add(new Livre(titre, nom, prenom, etat));
+                                biblio.Contenu.Add(new Livre(titre, nom, prenom, etat, int.Parse(livre.Tables[0].Rows[0]["id"].ToString())));
                                 Console.WriteLine("livre créé");
                             }
                             else
@@ -93,6 +94,7 @@ namespace BiblioVersion1
                             Console.Clear();
                             Console.WriteLine("Mot de passe de l'abonné :");
                             string mdp = Console.ReadLine();
+                            Console.Clear();
                             biblio.CreeAbonne(nom, prenom, email, login, mdp);
                             Console.Clear();
                             Console.WriteLine("Abonné enregistré !");
@@ -107,6 +109,7 @@ namespace BiblioVersion1
                     case ConsoleKey.A:
                         Console.WriteLine("\n" + biblio.ListeAbonnes());
                         break;
+                    ////////////////////////dégrader un livre
                     case ConsoleKey.D:
                         Console.WriteLine("\n" + biblio.Inventaire());
                         Console.WriteLine("Titre du livre qui est dégradé :");
@@ -114,21 +117,31 @@ namespace BiblioVersion1
                         Livre livreADegrader;
                         if (TrouveLivre(titre, biblio.Contenu, out livreADegrader))
                         {
-                            livreADegrader.Degrade();
-                            Console.WriteLine("Mise à jour de l'état effectuée !");
+                            if (bdd.DegradeLivre(titre))
+                            {
+                                livreADegrader.Degrade();
+                                Console.WriteLine("Mise à jour de l'état effectuée !");
+                            }
                         }
                         else
                         {
                             Console.WriteLine("Ce livre n'est pas dans la bibliothèque !");
                         }
                         break;
+                    ////////////////////////Suprimer les livres abimés
                     case ConsoleKey.S:
+                        if (bdd.SupprimerLivresAbimes())
+                        {
+                            Console.WriteLine("Mise à jour de la bibliothèque effectuée !");
+                        }
                         biblio.Supprimer_livre_abimes();
                         Console.WriteLine("\nLivres abimés supprimés !");
                         break;
+                    ////////////////////////Afficher les livres
                     case ConsoleKey.I:
                         Console.WriteLine("\n" + biblio.Inventaire());
                         break;
+                    ////////////////////////Créer un emprunt
                     case ConsoleKey.C:
                         Console.WriteLine("\nChoisissez un livre \n");
                         Console.WriteLine("\n" + biblio.Inventaire());
@@ -142,8 +155,11 @@ namespace BiblioVersion1
                             Abonne emprunteur;
                             if (TrouveAbonne(nom, biblio.Abonnes, out emprunteur))
                             {
+                                if(bdd.EmprunterLivre(livreAEmprunter, emprunteur.Id, biblio))
+                                {
                                 biblio.AjouteEmpruntLivre(livreAEmprunter, emprunteur, DateTime.Today);
                                 Console.WriteLine("Emprunt enregistré !");
+                                }
                             }
                             else
                             {
