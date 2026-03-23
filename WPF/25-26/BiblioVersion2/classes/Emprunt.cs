@@ -34,11 +34,20 @@ namespace BiblioVersion1.classes
 		{
 			get { return _emprunteur; }
 		}
-		public Emprunt(Livre livreEmprunte, DateTime dateEmprunt, Abonne emprunteur)
+
+		private int _id;
+
+		public int Id
+		{
+			get { return _id; }
+		}
+
+		public Emprunt(Livre livreEmprunte, DateTime dateEmprunt, Abonne emprunteur, int Id)
 		{
 			_livreEmprunte = livreEmprunte;
 			_dateEmprunt = dateEmprunt;
             _emprunteur = emprunteur;
+			_id = Id;
         }
         public string infos()
         {

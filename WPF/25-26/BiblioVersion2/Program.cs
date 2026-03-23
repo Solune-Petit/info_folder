@@ -157,7 +157,7 @@ namespace BiblioVersion1
                             {
                                 if(bdd.EmprunterLivre(livreAEmprunter, emprunteur.Id, biblio))
                                 {
-                                biblio.AjouteEmpruntLivre(livreAEmprunter, emprunteur, DateTime.Today);
+                                bdd.RecupEmprunts(out DataSet em);
                                 Console.WriteLine("Emprunt enregistré !");
                                 }
                             }
@@ -172,14 +172,20 @@ namespace BiblioVersion1
                             Console.WriteLine("Ce livre n'est pas dans la bibliothèque !");
                         }
                         break;
+                    ////////////////////////Liste des emprunts
                     case ConsoleKey.E:
                         Console.WriteLine("\nListe des emprunts : \n" + biblio.ListeEmprunts());
                         break;
+                    ///////////////////////Rendre un livre
                     case ConsoleKey.R:
-                        Console.WriteLine("\nTitre du livre qui rentre :");
-                        titre = Console.ReadLine();
-                        Emprunt emprunt;
-                        if (TrouveEmprunt(titre, biblio.Emprunts, out emprunt))
+                        Livre livreARendre;
+                        do
+                        {
+                            Console.WriteLine("\nTitre du livre qui rentre :");
+                            titre = Console.ReadLine();
+                        } while (!TrouveLivre(titre, biblio.Contenu, out livreARendre));
+
+                        if (TrouveEmprunt(livreARendre.Id, biblio.Emprunts, out int emprunt))
                         {
                             Console.WriteLine(biblio.NotifieRetourLivre(emprunt, DateTime.Today));
                             
@@ -213,16 +219,17 @@ namespace BiblioVersion1
             }
             return trouve;
         }
-        static bool TrouveEmprunt(string titre, List<Emprunt> emprunts, out Emprunt emprunt)
+        static bool TrouveEmprunt(int livre, List<Emprunt> emprunts, out int emprunt)
         {
             bool trouve = false;
-            emprunt = null;
+            emprunt = 0;
             foreach (Emprunt item in emprunts)
             {
-                if (item.LivreEmprunte.Titre == titre)
+                if (item.LivreEmprunte.Id == livre)
                 {
-                    emprunt = item;
+                    emprunt = item.Id + 1;
                     trouve = true;
+                    return trouve;
                 }
             }
             return trouve;

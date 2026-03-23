@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\BiblioVersion2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EEA70078-13E4-4BFA-A0EF-882CEEC8F0F2}|BiblioVersion1.csproj|c:\\users\\petitsolune\\desktop\\info_folder\\wpf\\25-26\\biblioversion2\\classes\\bdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEA70078-13E4-4BFA-A0EF-882CEEC8F0F2}|BiblioVersion1.csproj|solutionrelative:classes\\bdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EEA70078-13E4-4BFA-A0EF-882CEEC8F0F2}|BiblioVersion1.csproj|c:\\users\\petitsolune\\desktop\\info_folder\\wpf\\25-26\\biblioversion2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEA70078-13E4-4BFA-A0EF-882CEEC8F0F2}|BiblioVersion1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA70078-13E4-4BFA-A0EF-882CEEC8F0F2}|BiblioVersion1.csproj|c:\\users\\petitsolune\\desktop\\info_folder\\wpf\\25-26\\biblioversion2\\classes\\bdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA70078-13E4-4BFA-A0EF-882CEEC8F0F2}|BiblioVersion1.csproj|solutionrelative:classes\\bdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EEA70078-13E4-4BFA-A0EF-882CEEC8F0F2}|BiblioVersion1.csproj|c:\\users\\petitsolune\\desktop\\info_folder\\wpf\\25-26\\biblioversion2\\classes\\bibliotheque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,12 +19,12 @@
       "RelativeMoniker": "D:0:0:{EEA70078-13E4-4BFA-A0EF-882CEEC8F0F2}|BiblioVersion1.csproj|solutionrelative:classes\\emprunt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEA70078-13E4-4BFA-A0EF-882CEEC8F0F2}|BiblioVersion1.csproj|c:\\users\\petitsolune\\desktop\\info_folder\\wpf\\25-26\\biblioversion2\\classes\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEA70078-13E4-4BFA-A0EF-882CEEC8F0F2}|BiblioVersion1.csproj|solutionrelative:classes\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EEA70078-13E4-4BFA-A0EF-882CEEC8F0F2}|BiblioVersion1.csproj|c:\\users\\petitsolune\\desktop\\info_folder\\wpf\\25-26\\biblioversion2\\classes\\abonne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEA70078-13E4-4BFA-A0EF-882CEEC8F0F2}|BiblioVersion1.csproj|solutionrelative:classes\\abonne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA70078-13E4-4BFA-A0EF-882CEEC8F0F2}|BiblioVersion1.csproj|c:\\users\\petitsolune\\desktop\\info_folder\\wpf\\25-26\\biblioversion2\\classes\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA70078-13E4-4BFA-A0EF-882CEEC8F0F2}|BiblioVersion1.csproj|solutionrelative:classes\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,17 +34,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\BiblioVersion2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\BiblioVersion2\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAQwDsAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAM8AAAAAAAAAAAD4v94AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-11T08:05:11.474Z",
               "IsPinned": true,
@@ -58,7 +58,7 @@
               "RelativeDocumentMoniker": "classes\\Bibliotheque.cs",
               "ToolTip": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\BiblioVersion2\\classes\\Bibliotheque.cs",
               "RelativeToolTip": "classes\\Bibliotheque.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAAC8AAAAOAQAAAAAAAA==",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAawG8AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T07:31:01.774Z",
               "IsPinned": true,
@@ -66,13 +66,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Bdd.cs",
               "DocumentMoniker": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\BiblioVersion2\\classes\\Bdd.cs",
               "RelativeDocumentMoniker": "classes\\Bdd.cs",
               "ToolTip": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\BiblioVersion2\\classes\\Bdd.cs",
               "RelativeToolTip": "classes\\Bdd.cs",
-              "ViewState": "AgIAAH4AAAAAAAAAAAAowJkAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAA8BAAAAAAAAAAAlwC8BAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-11T08:08:11.943Z",
               "IsPinned": true,
@@ -86,14 +86,14 @@
               "RelativeDocumentMoniker": "classes\\Emprunt.cs",
               "ToolTip": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\BiblioVersion2\\classes\\Emprunt.cs",
               "RelativeToolTip": "classes\\Emprunt.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwCwAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T08:55:31.416Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Livre.cs",
               "DocumentMoniker": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\BiblioVersion2\\classes\\Livre.cs",
               "RelativeDocumentMoniker": "classes\\Livre.cs",
@@ -101,12 +101,11 @@
               "RelativeToolTip": "classes\\Livre.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T08:51:55.919Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T08:51:55.919Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Abonne.cs",
               "DocumentMoniker": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\WPF\\25-26\\BiblioVersion2\\classes\\Abonne.cs",
               "RelativeDocumentMoniker": "classes\\Abonne.cs",

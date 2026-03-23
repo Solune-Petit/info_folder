@@ -268,15 +268,14 @@ namespace BiblioVersion1.classes
             if (!ok)
             {
                 MySqlConnection conn = new MySqlConnection(ConnectionBdd());
-                string query = $"INSERT INTO emprunts (titre, id_abonne, date_emprunt, dateRetour) VALUES (@titre, @idAbonne, @dateEmprunt, @dateRetour)";
+                string query = $"INSERT INTO emprunts (idLivre, idabonne, dateEmprunt) VALUES (@idLivre, @idAbonne, @dateEmprunt)";
                 try
                 {
                     conn.Open();
                     using var cmd = new MySqlCommand(query, conn);
-                    cmd.Parameters.AddWithValue("@titre", livre.Titre);
+                    cmd.Parameters.AddWithValue("@idLivre", livre.Id);
                     cmd.Parameters.AddWithValue("@idAbonne", idAbonne);
                     cmd.Parameters.AddWithValue("@dateEmprunt", DateTime.Now);
-                    cmd.Parameters.AddWithValue("@dateRetour", DateTime.Now.AddDays(14));
                     cmd.ExecuteNonQuery();
                     return true;
                 }
@@ -289,6 +288,27 @@ namespace BiblioVersion1.classes
             else
             {
                 return false;
+            }
+        }
+
+        public bool RetoursLivre(int emprunt, DateTime dateRetour)
+        {
+            bool ok = false;
+            MySqlConnection conn = new MySqlConnection(ConnectionBdd());
+            string query = $"UPDATE emprunts SET dateRetour = @dateRetour WHERE idEmprunt = @idEmprunt";
+            try
+            {
+                conn.Open();
+                using var cmd = new MySqlCommand(query, conn);
+                cmd.Parameters.AddWithValue("@dateRetour", dateRetour);
+                cmd.Parameters.AddWithValue("@idEmprunt", emprunt);
+                cmd.ExecuteNonQuery();
+                return true;
+            }
+            catch (Exception ex)
+            {
+                Debug.WriteLine(ex.Message);
+                throw;
             }
         }
     }

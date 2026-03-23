@@ -40,23 +40,6 @@ namespace BiblioVersion1.classes
                 }
             }
 
-            _emprunts = new List<Emprunt>();
-            if(bdd.RecupEmprunts(out DataSet de))
-            {
-                for (int i = 0; i < de.Tables[0].Rows.Count; i++)
-                {
-                    Livre livreEmprunte = new Livre(de.Tables[0].Rows[i]["titre"].ToString(), de.Tables[0].Rows[i]["auteur"].ToString(), de.Tables[0].Rows[i]["prenom"].ToString(), Convert.ToInt32(de.Tables[0].Rows[i]["etat"]), Convert.ToInt32(dl.Tables[0].Rows[i]["id"]));
-                    Abonne emprunteur = new Abonne(de.Tables[0].Rows[i]["nom"].ToString(), de.Tables[0].Rows[i]["prenom"].ToString(), de.Tables[0].Rows[i]["email"].ToString(), de.Tables[0].Rows[i]["mdp"].ToString(), Convert.ToInt32(de.Tables[0].Rows[i]["id_abonne"]));
-                    DateTime dateEmprunt = Convert.ToDateTime(de.Tables[0].Rows[i]["date_emprunt"]);
-                    Emprunt emprunt = new Emprunt(livreEmprunte, dateEmprunt, emprunteur);
-                    if (de.Tables[0].Rows[i]["date_retour"] != DBNull.Value)
-                    {
-                        emprunt.DateRetour = Convert.ToDateTime(de.Tables[0].Rows[i]["date_retour"]);
-                    }
-                    _emprunts.Add(emprunt);
-                }
-            }
-
             _abonnes= new List<Abonne>();
             if(bdd.RecupAbonnes(out DataSet da))
             {
@@ -65,6 +48,25 @@ namespace BiblioVersion1.classes
                     _abonnes.Add(new Abonne(da.Tables[0].Rows[iAbonne]["nom"].ToString(), da.Tables[0].Rows[iAbonne]["prenom"].ToString(), da.Tables[0].Rows[iAbonne]["email"].ToString(), da.Tables[0].Rows[iAbonne]["motDePasse"].ToString(), Convert.ToInt32(da.Tables[0].Rows[iAbonne]["id"])));
                 }
             }
+
+            _emprunts = new List<Emprunt>();
+            if(bdd.RecupEmprunts(out DataSet de))
+            {
+                for (int i = 0; i < de.Tables[0].Rows.Count; i++)
+                {
+                    Livre livreEmprunte = _contenu.Find(livre => livre.Id == Convert.ToInt32(de.Tables[0].Rows[i]["idLivre"]));
+                    //chercher l'abonné qui correspond à l'id de l'abonné dans de.Tables[0].Rows[i]["idAbonne"]
+                    Abonne emprunteur = _abonnes.Find(ab => ab.Id == Convert.ToInt32(de.Tables[0].Rows[i]["idAbonne"]));
+                    DateTime dateEmprunt = Convert.ToDateTime(de.Tables[0].Rows[i]["dateEmprunt"]);
+                    Emprunt emprunt = new Emprunt(livreEmprunte, dateEmprunt, emprunteur, int.Parse(de.Tables[0].Rows[0]["idEmprunt"].ToString()));
+                    if (de.Tables[0].Rows[i]["dateRetour"] != DBNull.Value)
+                    {
+                        emprunt.DateRetour = Convert.ToDateTime(de.Tables[0].Rows[i]["dateRetour"]);
+                    }
+                    _emprunts.Add(emprunt);
+                }
+            }
+
         }
 
         public void Ajoute(Livre livre)
@@ -103,13 +105,11 @@ namespace BiblioVersion1.classes
                 _abonnes.Add(new Abonne(nom, prenom, email, mdp, id));
             }
         }
-        public void AjouteEmpruntLivre (Livre livre, Abonne abonne, DateTime dateEmprunt)
+
+        public string NotifieRetourLivre(int emprunt, DateTime dateRetour)
         {
-            _emprunts.Add(new Emprunt(livre, dateEmprunt,  abonne));
-        }
-        public string NotifieRetourLivre(Emprunt emprunt, DateTime dateRetour)
-        {
-            emprunt.DateRetour = dateRetour;
+            Bdd bdd = new Bdd();
+            bdd.RetoursLivre(emprunt, dateRetour);
             return "\nRetour enregistré !";
         }
         public string ListeEmprunts()
