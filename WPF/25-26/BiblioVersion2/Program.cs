@@ -1,4 +1,5 @@
 ﻿using BiblioVersion1.classes;
+using System.Data;
 
 namespace BiblioVersion1
 {
@@ -54,9 +55,9 @@ namespace BiblioVersion1
                         Livre livreExistant;
                         if (!TrouveLivre(titre, biblio.Contenu, out livreExistant))
                         {
-                            if (bdd.AjouterLivre(titre, nom, prenom, date))
+                            if (bdd.AjouterLivre(titre, nom, prenom, date, out DataSet livre))
                             {
-                                biblio.Contenu.Add(new Livre(titre, nom, prenom, etat));
+                                biblio.Contenu.Add(new Livre(titre, nom, prenom, etat, int.Parse(livre.Tables[0].Rows[0]["id"].ToString())));
                                 Console.WriteLine("livre créé");
                             }
                             else
@@ -93,6 +94,7 @@ namespace BiblioVersion1
                             Console.Clear();
                             Console.WriteLine("Mot de passe de l'abonné :");
                             string mdp = Console.ReadLine();
+                            Console.Clear();
                             biblio.CreeAbonne(nom, prenom, email, login, mdp);
                             Console.Clear();
                             Console.WriteLine("Abonné enregistré !");
@@ -107,6 +109,7 @@ namespace BiblioVersion1
                     case ConsoleKey.A:
                         Console.WriteLine("\n" + biblio.ListeAbonnes());
                         break;
+                    ////////////////////////dégrader un livre
                     case ConsoleKey.D:
                         Console.WriteLine("\n" + biblio.Inventaire());
                         Console.WriteLine("Titre du livre qui est dégradé :");
@@ -114,21 +117,31 @@ namespace BiblioVersion1
                         Livre livreADegrader;
                         if (TrouveLivre(titre, biblio.Contenu, out livreADegrader))
                         {
-                            livreADegrader.Degrade();
-                            Console.WriteLine("Mise à jour de l'état effectuée !");
+                            if (bdd.DegradeLivre(titre))
+                            {
+                                livreADegrader.Degrade();
+                                Console.WriteLine("Mise à jour de l'état effectuée !");
+                            }
                         }
                         else
                         {
                             Console.WriteLine("Ce livre n'est pas dans la bibliothèque !");
                         }
                         break;
+                    ////////////////////////Suprimer les livres abimés
                     case ConsoleKey.S:
+                        if (bdd.SupprimerLivresAbimes())
+                        {
+                            Console.WriteLine("Mise à jour de la bibliothèque effectuée !");
+                        }
                         biblio.Supprimer_livre_abimes();
                         Console.WriteLine("\nLivres abimés supprimés !");
                         break;
+                    ////////////////////////Afficher les livres
                     case ConsoleKey.I:
                         Console.WriteLine("\n" + biblio.Inventaire());
                         break;
+                    ////////////////////////Créer un emprunt
                     case ConsoleKey.C:
                         Console.WriteLine("\nChoisissez un livre \n");
                         Console.WriteLine("\n" + biblio.Inventaire());
@@ -142,8 +155,11 @@ namespace BiblioVersion1
                             Abonne emprunteur;
                             if (TrouveAbonne(nom, biblio.Abonnes, out emprunteur))
                             {
-                                biblio.AjouteEmpruntLivre(livreAEmprunter, emprunteur, DateTime.Today);
+                                if(bdd.EmprunterLivre(livreAEmprunter, emprunteur.Id, biblio))
+                                {
+                                bdd.RecupEmprunts(out DataSet em);
                                 Console.WriteLine("Emprunt enregistré !");
+                                }
                             }
                             else
                             {
@@ -156,14 +172,20 @@ namespace BiblioVersion1
                             Console.WriteLine("Ce livre n'est pas dans la bibliothèque !");
                         }
                         break;
+                    ////////////////////////Liste des emprunts
                     case ConsoleKey.E:
                         Console.WriteLine("\nListe des emprunts : \n" + biblio.ListeEmprunts());
                         break;
+                    ///////////////////////Rendre un livre
                     case ConsoleKey.R:
-                        Console.WriteLine("\nTitre du livre qui rentre :");
-                        titre = Console.ReadLine();
-                        Emprunt emprunt;
-                        if (TrouveEmprunt(titre, biblio.Emprunts, out emprunt))
+                        Livre livreARendre;
+                        do
+                        {
+                            Console.WriteLine("\nTitre du livre qui rentre :");
+                            titre = Console.ReadLine();
+                        } while (!TrouveLivre(titre, biblio.Contenu, out livreARendre));
+
+                        if (TrouveEmprunt(livreARendre.Id, biblio.Emprunts, out int emprunt))
                         {
                             Console.WriteLine(biblio.NotifieRetourLivre(emprunt, DateTime.Today));
                             
@@ -197,16 +219,17 @@ namespace BiblioVersion1
             }
             return trouve;
         }
-        static bool TrouveEmprunt(string titre, List<Emprunt> emprunts, out Emprunt emprunt)
+        static bool TrouveEmprunt(int livre, List<Emprunt> emprunts, out int emprunt)
         {
             bool trouve = false;
-            emprunt = null;
+            emprunt = 0;
             foreach (Emprunt item in emprunts)
             {
-                if (item.LivreEmprunte.Titre == titre)
+                if (item.LivreEmprunte.Id == livre)
                 {
-                    emprunt = item;
+                    emprunt = item.Id + 1;
                     trouve = true;
+                    return trouve;
                 }
             }
             return trouve;
