@@ -1,0 +1,15 @@
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_CorrigerCode\bin\Debug\net8.0\POO_CorrigerCode.exe
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_CorrigerCode\bin\Debug\net8.0\POO_CorrigerCode.deps.json
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_CorrigerCode\bin\Debug\net8.0\POO_CorrigerCode.runtimeconfig.json
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_CorrigerCode\bin\Debug\net8.0\POO_CorrigerCode.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_CorrigerCode\bin\Debug\net8.0\POO_CorrigerCode.pdb
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_CorrigerCode\obj\Debug\net8.0\POO_CorrigerCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_CorrigerCode\obj\Debug\net8.0\POO_CorrigerCode.AssemblyInfoInputs.cache
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_CorrigerCode\obj\Debug\net8.0\POO_CorrigerCode.AssemblyInfo.cs
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_CorrigerCode\obj\Debug\net8.0\POO_CorrigerCode.csproj.CoreCompileInputs.cache
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_CorrigerCode\obj\Debug\net8.0\POO_CorrigerCode.sourcelink.json
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_CorrigerCode\obj\Debug\net8.0\POO_CorrigerCode.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_CorrigerCode\obj\Debug\net8.0\refint\POO_CorrigerCode.dll
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_CorrigerCode\obj\Debug\net8.0\POO_CorrigerCode.pdb
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_CorrigerCode\obj\Debug\net8.0\POO_CorrigerCode.genruntimeconfig.cache
+C:\Users\PetitSolune\Desktop\info_folder\WPF\25-26\POO_CorrigerCode\obj\Debug\net8.0\ref\POO_CorrigerCode.dll
