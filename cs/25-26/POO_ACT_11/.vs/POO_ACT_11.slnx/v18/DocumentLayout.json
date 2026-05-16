@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\petit\\Desktop\\info\\POO_ACT_11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3A812C-72B2-4C21-81AB-326EC44ABB9D}|POO_ACT_11.csproj|c:\\users\\petit\\desktop\\info\\poo_act_11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B3A812C-72B2-4C21-81AB-326EC44ABB9D}|POO_ACT_11.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\petit\\Desktop\\info\\POO_ACT_11\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\petit\\Desktop\\info\\POO_ACT_11\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAUwJEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T11:51:13.558Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

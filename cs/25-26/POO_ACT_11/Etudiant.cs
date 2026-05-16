@@ -9,9 +9,9 @@ namespace POO_ACT11
 {
     internal class Etudiant : Personne
     {
-		private int _anneeEntree;
+		private DateTime _anneeEntree;
 
-		public int AnneeEntree
+		public DateTime AnneeEntree
 		{
 			get { return _anneeEntree; }
 			set { _anneeEntree = value; }
@@ -25,7 +25,7 @@ namespace POO_ACT11
 			set { _listeCours = value; }
 		}
 
-		public Etudiant(int anneeEntree, string nom, string prenom, string email, string telephone) : base(nom, prenom, email, telephone)
+		public Etudiant(DateTime anneeEntree, string nom, string prenom, string email, string telephone) : base(nom, prenom, email, telephone)
 		{
 			_anneeEntree = anneeEntree;
 			_listeCours = new List<InfosCours>();
