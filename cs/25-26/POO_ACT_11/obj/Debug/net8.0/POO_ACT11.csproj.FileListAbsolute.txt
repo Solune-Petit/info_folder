@@ -1,0 +1,15 @@
+C:\Users\PetitSolune\Desktop\info_folder\cs\25-26\POO_ACT_11\bin\Debug\net8.0\POO_ACT11.exe
+C:\Users\PetitSolune\Desktop\info_folder\cs\25-26\POO_ACT_11\bin\Debug\net8.0\POO_ACT11.deps.json
+C:\Users\PetitSolune\Desktop\info_folder\cs\25-26\POO_ACT_11\bin\Debug\net8.0\POO_ACT11.runtimeconfig.json
+C:\Users\PetitSolune\Desktop\info_folder\cs\25-26\POO_ACT_11\bin\Debug\net8.0\POO_ACT11.dll
+C:\Users\PetitSolune\Desktop\info_folder\cs\25-26\POO_ACT_11\bin\Debug\net8.0\POO_ACT11.pdb
+C:\Users\PetitSolune\Desktop\info_folder\cs\25-26\POO_ACT_11\obj\Debug\net8.0\POO_ACT11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PetitSolune\Desktop\info_folder\cs\25-26\POO_ACT_11\obj\Debug\net8.0\POO_ACT11.AssemblyInfoInputs.cache
+C:\Users\PetitSolune\Desktop\info_folder\cs\25-26\POO_ACT_11\obj\Debug\net8.0\POO_ACT11.AssemblyInfo.cs
+C:\Users\PetitSolune\Desktop\info_folder\cs\25-26\POO_ACT_11\obj\Debug\net8.0\POO_ACT11.csproj.CoreCompileInputs.cache
+C:\Users\PetitSolune\Desktop\info_folder\cs\25-26\POO_ACT_11\obj\Debug\net8.0\POO_ACT11.sourcelink.json
+C:\Users\PetitSolune\Desktop\info_folder\cs\25-26\POO_ACT_11\obj\Debug\net8.0\POO_ACT11.dll
+C:\Users\PetitSolune\Desktop\info_folder\cs\25-26\POO_ACT_11\obj\Debug\net8.0\refint\POO_ACT11.dll
+C:\Users\PetitSolune\Desktop\info_folder\cs\25-26\POO_ACT_11\obj\Debug\net8.0\POO_ACT11.pdb
+C:\Users\PetitSolune\Desktop\info_folder\cs\25-26\POO_ACT_11\obj\Debug\net8.0\POO_ACT11.genruntimeconfig.cache
+C:\Users\PetitSolune\Desktop\info_folder\cs\25-26\POO_ACT_11\obj\Debug\net8.0\ref\POO_ACT11.dll

@@ -1,10 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\210225\\source\\repos\\POO_ACT11\\",
+  "WorkspaceRootPath": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\cs\\25-26\\POO_ACT_11\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1015AAE9-175D-48B9-AFAB-B646D9704B68}|POO_ACT11.csproj|c:\\users\\210225\\source\\repos\\poo_act11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1015AAE9-175D-48B9-AFAB-B646D9704B68}|POO_ACT11.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A592751-8E3D-F3A1-26BD-323F8F5EBFA8}|POO_ACT11.csproj|c:\\users\\petitsolune\\desktop\\info_folder\\cs\\25-26\\poo_act_11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A592751-8E3D-F3A1-26BD-323F8F5EBFA8}|POO_ACT11.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A592751-8E3D-F3A1-26BD-323F8F5EBFA8}|POO_ACT11.csproj|c:\\users\\petitsolune\\desktop\\info_folder\\cs\\25-26\\poo_act_11\\departement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A592751-8E3D-F3A1-26BD-323F8F5EBFA8}|POO_ACT11.csproj|solutionrelative:departement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A592751-8E3D-F3A1-26BD-323F8F5EBFA8}|POO_ACT11.csproj|c:\\users\\petitsolune\\desktop\\info_folder\\cs\\25-26\\poo_act_11\\etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A592751-8E3D-F3A1-26BD-323F8F5EBFA8}|POO_ACT11.csproj|solutionrelative:etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A592751-8E3D-F3A1-26BD-323F8F5EBFA8}|POO_ACT11.csproj|c:\\users\\petitsolune\\desktop\\info_folder\\cs\\25-26\\poo_act_11\\infoscours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A592751-8E3D-F3A1-26BD-323F8F5EBFA8}|POO_ACT11.csproj|solutionrelative:infoscours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A592751-8E3D-F3A1-26BD-323F8F5EBFA8}|POO_ACT11.csproj|c:\\users\\petitsolune\\desktop\\info_folder\\cs\\25-26\\poo_act_11\\ecole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A592751-8E3D-F3A1-26BD-323F8F5EBFA8}|POO_ACT11.csproj|solutionrelative:ecole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A592751-8E3D-F3A1-26BD-323F8F5EBFA8}|POO_ACT11.csproj|c:\\users\\petitsolune\\desktop\\info_folder\\cs\\25-26\\poo_act_11\\academie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A592751-8E3D-F3A1-26BD-323F8F5EBFA8}|POO_ACT11.csproj|solutionrelative:academie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A592751-8E3D-F3A1-26BD-323F8F5EBFA8}|POO_ACT11.csproj|c:\\users\\petitsolune\\desktop\\info_folder\\cs\\25-26\\poo_act_11\\salle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A592751-8E3D-F3A1-26BD-323F8F5EBFA8}|POO_ACT11.csproj|solutionrelative:salle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A592751-8E3D-F3A1-26BD-323F8F5EBFA8}|POO_ACT11.csproj|c:\\users\\petitsolune\\desktop\\info_folder\\cs\\25-26\\poo_act_11\\enseignant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A592751-8E3D-F3A1-26BD-323F8F5EBFA8}|POO_ACT11.csproj|solutionrelative:enseignant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A592751-8E3D-F3A1-26BD-323F8F5EBFA8}|POO_ACT11.csproj|c:\\users\\petitsolune\\desktop\\info_folder\\cs\\25-26\\poo_act_11\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A592751-8E3D-F3A1-26BD-323F8F5EBFA8}|POO_ACT11.csproj|solutionrelative:personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A592751-8E3D-F3A1-26BD-323F8F5EBFA8}|POO_ACT11.csproj|c:\\users\\petitsolune\\desktop\\info_folder\\cs\\25-26\\poo_act_11\\cours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A592751-8E3D-F3A1-26BD-323F8F5EBFA8}|POO_ACT11.csproj|solutionrelative:cours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A592751-8E3D-F3A1-26BD-323F8F5EBFA8}|POO_ACT11.csproj|c:\\users\\petitsolune\\desktop\\info_folder\\cs\\25-26\\poo_act_11\\matiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A592751-8E3D-F3A1-26BD-323F8F5EBFA8}|POO_ACT11.csproj|solutionrelative:matiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +60,144 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\210225\\source\\repos\\POO_ACT11\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\cs\\25-26\\POO_ACT_11\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\210225\\source\\repos\\POO_ACT11\\Program.cs",
+              "ToolTip": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\cs\\25-26\\POO_ACT_11\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAowCkAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-22T08:01:27.377Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InfosCours.cs",
+              "DocumentMoniker": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\cs\\25-26\\POO_ACT_11\\InfosCours.cs",
+              "RelativeDocumentMoniker": "InfosCours.cs",
+              "ToolTip": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\cs\\25-26\\POO_ACT_11\\InfosCours.cs",
+              "RelativeToolTip": "InfosCours.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T06:58:29.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Etudiant.cs",
+              "DocumentMoniker": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\cs\\25-26\\POO_ACT_11\\Etudiant.cs",
+              "RelativeDocumentMoniker": "Etudiant.cs",
+              "ToolTip": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\cs\\25-26\\POO_ACT_11\\Etudiant.cs",
+              "RelativeToolTip": "Etudiant.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T06:54:04.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Personne.cs",
+              "DocumentMoniker": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\cs\\25-26\\POO_ACT_11\\Personne.cs",
+              "RelativeDocumentMoniker": "Personne.cs",
+              "ToolTip": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\cs\\25-26\\POO_ACT_11\\Personne.cs",
+              "RelativeToolTip": "Personne.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T06:52:18.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Enseignant.cs",
+              "DocumentMoniker": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\cs\\25-26\\POO_ACT_11\\Enseignant.cs",
+              "RelativeDocumentMoniker": "Enseignant.cs",
+              "ToolTip": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\cs\\25-26\\POO_ACT_11\\Enseignant.cs",
+              "RelativeToolTip": "Enseignant.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBoAAACRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T06:45:47.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Salle.cs",
+              "DocumentMoniker": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\cs\\25-26\\POO_ACT_11\\Salle.cs",
+              "RelativeDocumentMoniker": "Salle.cs",
+              "ToolTip": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\cs\\25-26\\POO_ACT_11\\Salle.cs",
+              "RelativeToolTip": "Salle.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAArwCQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T06:40:54.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Departement.cs",
+              "DocumentMoniker": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\cs\\25-26\\POO_ACT_11\\Departement.cs",
+              "RelativeDocumentMoniker": "Departement.cs",
+              "ToolTip": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\cs\\25-26\\POO_ACT_11\\Departement.cs",
+              "RelativeToolTip": "Departement.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwCYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T06:38:08.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ecole.cs",
+              "DocumentMoniker": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\cs\\25-26\\POO_ACT_11\\Ecole.cs",
+              "RelativeDocumentMoniker": "Ecole.cs",
+              "ToolTip": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\cs\\25-26\\POO_ACT_11\\Ecole.cs",
+              "RelativeToolTip": "Ecole.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAIA8wDYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T06:33:32.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Academie.cs",
+              "DocumentMoniker": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\cs\\25-26\\POO_ACT_11\\Academie.cs",
+              "RelativeDocumentMoniker": "Academie.cs",
+              "ToolTip": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\cs\\25-26\\POO_ACT_11\\Academie.cs",
+              "RelativeToolTip": "Academie.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T06:30:16.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cours.cs",
+              "DocumentMoniker": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\cs\\25-26\\POO_ACT_11\\Cours.cs",
+              "RelativeDocumentMoniker": "Cours.cs",
+              "ToolTip": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\cs\\25-26\\POO_ACT_11\\Cours.cs",
+              "RelativeToolTip": "Cours.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAqwEsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T06:47:55.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Matiere.cs",
+              "DocumentMoniker": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\cs\\25-26\\POO_ACT_11\\Matiere.cs",
+              "RelativeDocumentMoniker": "Matiere.cs",
+              "ToolTip": "C:\\Users\\PetitSolune\\Desktop\\info_folder\\cs\\25-26\\POO_ACT_11\\Matiere.cs",
+              "RelativeToolTip": "Matiere.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T06:43:41.179Z",
               "EditorCaption": ""
             }
           ]
